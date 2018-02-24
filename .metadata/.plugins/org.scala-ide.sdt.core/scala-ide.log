@@ -5790,3 +5790,43 @@ Standard error:
 2018-02-23 22:07:13,752  WARN [Worker-9] - ScalaProject - Project FunctionLab runs on platform default installation.
 2018-02-23 22:07:15,646  WARN [Worker-9] - ScalaProject - Project FunctionLab has platform default sourceLevel.
 2018-02-23 22:07:15,647  WARN [Worker-9] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-23 22:24:04,475  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-02-23 22:24:04,475  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-02-23 22:27:22,565  WARN [Worker-5] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-23 22:27:22,567  WARN [Worker-5] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-23 22:30:26,923  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-02-23 22:30:26,928  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-02-23 22:30:26,974  WARN [Worker-4] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-23 22:30:26,975  WARN [Worker-4] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-23 22:30:26,975  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-23 22:30:26,976  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-23 22:30:26,981  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-02-23 22:30:26,981  WARN [Worker-4] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-02-23 22:30:26,981  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-02-23 22:30:26,981  WARN [Worker-4] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-02-23 22:30:26,982  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-02-23 22:30:26,982  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-02-23 22:30:26,985  WARN [Worker-4] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-02-23 22:30:26,985  WARN [Worker-4] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-02-23 22:30:27,791  WARN [Worker-5] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-02-23 22:30:27,792  WARN [Worker-5] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-02-23 22:30:27,897  WARN [Worker-5] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-02-23 22:30:27,897  WARN [Worker-5] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-02-23 22:30:34,034  WARN [Worker-5] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-23 22:30:34,034  WARN [Worker-5] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-23 22:30:34,042  WARN [Worker-5] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-23 22:30:34,043  WARN [Worker-5] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-23 22:30:35,287  WARN [Worker-5] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-02-23 22:30:35,287  WARN [Worker-5] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-02-23 22:30:35,300  WARN [Worker-5] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-02-23 22:30:35,300  WARN [Worker-5] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-02-23 22:31:04,706  WARN [Worker-3] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-02-23 22:31:04,706  WARN [Worker-3] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-02-23 22:31:05,219  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-02-23 22:31:05,219  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-02-23 22:31:11,810  WARN [Worker-6] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-02-23 22:31:11,810  WARN [Worker-6] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-02-23 22:31:19,646  WARN [Worker-0] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-02-23 22:31:19,646  WARN [Worker-0] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-02-23 22:31:23,664  WARN [Worker-4] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-02-23 22:31:23,664  WARN [Worker-4] - ScalaProject - Project ControlLab runs on platform default installation.
