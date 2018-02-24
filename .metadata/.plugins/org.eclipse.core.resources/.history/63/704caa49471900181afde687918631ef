@@ -1,0 +1,38 @@
+object session {
+  println("Welcome to the Scala worksheet")
+
+  /********** #1 **********/
+  // Generic compose combinator
+  // (the input of f should be the same as the output of g)
+	def compose[A, B](f: A => B, g: B => A): B => B = {
+		def r(x: B):
+			B = f(g(x));
+   	r _
+	}
+	
+	// --- Tester functions --- //
+	def triple(x: Int): Int = 3 * x
+	def square(x: Int) = x * x
+	val squareTriple = compose(square _, triple _)
+	// Test without composition function
+	square(triple(2))
+	square(triple(5))
+	
+	// Testing the composition function
+	squareTriple(2)
+	squareTriple(5)
+	
+  
+  /********** #2 **********/
+  
+  
+  /********** #3 **********/
+  
+  
+  /********** #4 **********/
+  
+  
+  /********** #5 **********/
+  
+  
+}

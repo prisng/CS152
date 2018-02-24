@@ -1,0 +1,43 @@
+object session {
+  println("Welcome to the Scala worksheet")       //> Welcome to the Scala worksheet
+
+  /********** #1 **********/
+  // generic compose combinator
+  
+  /*
+  def compose[T](f: T => T, g: T => T): T => T = {
+		def r(x: T):
+			T = f(g(x)); 
+   	r _
+	}
+	*/
+	
+	def compose[A, B](f: A => B, g: B => A): B => B = {
+		def r(x: B):
+			B = f(g(x)); 
+   	r _
+	}
+	def triple(x: Int): Int = 3 * x
+	
+	def square(x: Int) = x * x
+	
+	//println(compose(triple(3), square(3)))
+	
+	 def inc(x: Double) = x + 1
+    def double(x: Double) = 2 * x
+def compose2[A,B,C](f: B => C, g: A => B, x: A): C = f(g(x))
+println(compose2(double, inc, 2.toDouble))
+  
+  /********** #2 **********/
+  
+  
+  /********** #3 **********/
+  
+  
+  /********** #4 **********/
+  
+  
+  /********** #5 **********/
+  
+  
+}
