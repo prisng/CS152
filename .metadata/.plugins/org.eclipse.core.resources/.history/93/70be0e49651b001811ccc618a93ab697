@@ -1,0 +1,30 @@
+object dds {
+  /********** #1 **********/
+  // Tail-recursive implementation of controlLoop
+	def controlLoop[S](state: S, cycle: Int, halt: (S, Int) => Boolean, update: (S, Int) => S): S =
+		if (halt(state, cycle)) state
+		else controlLoop(update(state, cycle), cycle + 1, halt, update)
+		
+  /********** #2 **********/
+  // initial pop = 1
+  // doubles every week
+  // stops at 10^5 (halt / carrying capacity)
+  // final size?
+  
+  val birthRate = 2
+  def updatePop(currentPop: Int, maxPop: Int) = {
+		println("currentPop = " + currentPop)
+		(currentPop * birthRate).toInt
+  }
+	def stopDemo(currentPop: Int, maxPop: Int) =
+		(currentPop > scala.math.pow(10, 5))
+	controlLoop(1, 0, stopDemo, updatePop)
+  /********** #3 **********/
+  
+  /********** #4 **********/
+  
+  /********** #5 **********/
+  
+  /********** #6 **********/
+  
+}

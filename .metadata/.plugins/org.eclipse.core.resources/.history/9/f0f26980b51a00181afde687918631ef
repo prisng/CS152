@@ -1,0 +1,78 @@
+object session {
+
+  /********** #1 **********/
+  // Generic compose combinator
+  // (the input of f should be the same as the output of g)
+	def compose[A, B](f: A => B, g: B => A): B => B = {
+		def r(x: B):
+			B = f(g(x));
+   	r _
+	}
+	
+	// --- Tester functions --- //
+	def triple(x: Int): Int = 3 * x
+	def square(x: Int) = x * x
+	val squareTriple = compose(square _, triple _)
+	// Test without composition function
+	square(triple(2))
+	square(triple(5))
+	
+	// Testing the composition function
+	squareTriple(2)
+	squareTriple(5)
+	
+  
+  /********** #2 **********/
+  // f is composed with itself n times
+  def selfIter[T](f: T=>T, n: Int): T => T = {
+  /*
+  		if (n == 0) f
+  		else	 {
+  			def test = selfIter(f, n - 1)
+  			compose(f, test)
+  		}
+  		*/
+  		n match {
+  			case n if n == 0 => f
+  			case _ => {
+  				def test = selfIter(f, n - 1)
+  				compose(f, test)
+  			}
+  		}
+  }
+  
+  // --- Tester functions --- //
+  def inc(x: Double) = x + 1
+	def double(x: Double) = 2 * x
+	
+	// Testing the selfIter function
+	def doubleIncSelfIter(n: Int, m: Int) = {
+		def innerTest = selfIter(compose(double, inc), m)
+		innerTest(n)
+	}
+	var a = selfIter(compose(double _, inc _), 1)
+	// double(inc(3)) = double(4) = 8
+	doubleIncSelfIter(3, 0)
+	// double(inc(double(inc(4)))) = double(inc(double(5))) = double(inc(10)) = double(11) = 22
+	doubleIncSelfIter(4, 1)
+	// double(inc(double(inc(double(inc(double(inc(5))))))))
+	// = double(inc(double(inc(double(inc(double(6)))))))
+	// = double(inc(double(inc(double(inc(12))))))
+	// = double(inc(double(inc(double(13)))))
+	// = double(inc(double(inc(26))))
+	// = double(inc(double(27)))
+	// = double(inc(54))
+	// = double(55) = 110
+	doubleIncSelfIter(5, 3)
+	
+
+  /********** #3 **********/
+  
+  
+  /********** #4 **********/
+  
+  
+  /********** #5 **********/
+  
+  
+}

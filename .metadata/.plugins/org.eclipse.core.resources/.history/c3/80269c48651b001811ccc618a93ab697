@@ -1,0 +1,78 @@
+object dds {
+  /********** #1 **********/
+  // Tail-recursive implementation of controlLoop
+	def controlLoop[S](state: S, cycle: Int, halt: (S, Int) => Boolean, update: (S, Int) => S): S =
+		if (halt(state, cycle)) state
+		else controlLoop(update(state, cycle), cycle + 1, halt, update)
+                                                  //> controlLoop: [S](state: S, cycle: Int, halt: (S, Int) => Boolean, update: (S
+                                                  //| , Int) => S)S
+		
+  /********** #2 **********/
+  // initial pop = 1
+  // doubles every week
+  // stops at 10^5 (halt / carrying capacity)
+  // final size?
+  
+  val birthRate = 2                               //> birthRate  : Int = 2
+  def updatePop(currentPop: Int, maxPop: Int) = {
+		println("currentPop = " + currentPop)
+		(currentPop * birthRate).toInt
+  }                                               //> updatePop: (currentPop: Int, maxPop: Int)Int
+	def stopDemo(currentPop: Int, maxPop: Int) =
+		(currentPop > scala.math.pow(10, 5)) //> stopDemo: (currentPop: Int, maxPop: Int)Boolean
+	controlLoop(1, 0, stopDemo, updatePop)    //> currentPop = 1
+                                                  //| currentPop = 2
+                                                  //| currentPop = 4
+                                                  //| currentPop = 8
+                                                  //| currentPop = 16
+                                                  //| currentPop = 32
+                                                  //| currentPop = 64
+                                                  //| currentPop = 128
+                                                  //| currentPop = 256
+                                                  //| currentPop = 512
+                                                  //| currentPop = 1024
+                                                  //| currentPop = 2048
+                                                  //| currentPop = 4096
+                                                  //| currentPop = 8192
+                                                  //| currentPop = 16384
+                                                  //| currentPop = 32768
+                                                  //| currentPop = 65536
+                                                  //| currentPop = 131072
+                                                  //| currentPop = 262144
+                                                  //| currentPop = 524288
+                                                  //| currentPop = 1048576
+                                                  //| currentPop = 2097152
+                                                  //| currentPop = 4194304
+                                                  //| currentPop = 8388608
+                                                  //| currentPop = 16777216
+                                                  //| currentPop = 33554432
+                                                  //| currentPop = 67108864
+                                                  //| currentPop = 134217728
+                                                  //| currentPop = 268435456
+                                                  //| currentPop = 536870912
+                                                  //| currentPop = 1073741824
+                                                  //| currentPop = -2147483648
+                                                  //| currentPop = 0
+                                                  //| currentPop = 0
+                                                  //| currentPop = 0
+                                                  //| currentPop = 0
+                                                  //| currentPop = 0
+                                                  //| currentPop = 0
+                                                  //| currentPop = 0
+                                                  //| currentPop = 0
+                                                  //| currentPop = 0
+                                                  //| currentPop = 0
+                                                  //| currentPop = 0
+                                                  //| currentPop = 0
+                                                  //| currentPop = 0
+                                                  //| curre
+                                                  //| Output exceeds cutoff limit.
+  /********** #3 **********/
+  
+  /********** #4 **********/
+  
+  /********** #5 **********/
+  
+  /********** #6 **********/
+  
+}

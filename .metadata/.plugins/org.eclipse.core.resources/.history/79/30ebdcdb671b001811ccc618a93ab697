@@ -1,0 +1,27 @@
+object dds {
+  /********** #1 **********/
+  // Tail-recursive implementation of controlLoop
+	def controlLoop[S](state: S, cycle: Int, halt: (S, Int) => Boolean, update: (S, Int) => S): S =
+		if (halt(state, cycle)) state
+		else controlLoop(update(state, cycle), cycle + 1, halt, update)
+                                                  //> controlLoop: [S](state: S, cycle: Int, halt: (S, Int) => Boolean, update: (S
+                                                  //| , Int) => S)S
+		
+  /********** #2 **********/
+  // Initial pop = 1, doubles every week, stops after pop > 10^5, final pop?
+	def amoebaPop(): Int = {
+		val birthRate = 2
+		def updatePop(currentPop: Int, numWeeks: Int) = currentPop * birthRate
+		def halt(currentPop: Int, numWeeks: Int) = (currentPop > scala.math.pow(10, 5))
+		controlLoop(1, 0, halt, updatePop)
+	// The final population size is 131072.
+	}
+  /********** #3 **********/
+  
+  /********** #4 **********/
+  
+  /********** #5 **********/
+  
+  /********** #6 **********/
+  
+}

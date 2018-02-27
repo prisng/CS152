@@ -1,0 +1,56 @@
+object dds {
+  /********** #1 **********/
+  // Tail-recursive implementation of controlLoop
+	def controlLoop[S](state: S, cycle: Int, halt: (S, Int) => Boolean, update: (S, Int) => S): S =
+		if (halt(state, cycle)) state
+		else controlLoop(update(state, cycle), cycle + 1, halt, update)
+                                                  //> controlLoop: [S](state: S, cycle: Int, halt: (S, Int) => Boolean, update: (S
+                                                  //| , Int) => S)S
+		
+  /********** #2 **********/
+  // Initial pop = 1, doubles every week, stops after pop > 10^5, final pop?
+  val birthRate = 2                               //> birthRate  : Int = 2
+  def updatePop(currentPop: Int, maxPop: Int) = {
+  		// Tester line
+		println("currentPop = " + currentPop)
+		(currentPop * birthRate).toInt
+  }                                               //> updatePop: (currentPop: Int, maxPop: Int)Int
+	def stopDemo(currentPop: Int, maxPop: Int) =
+		(currentPop > scala.math.pow(10, 5))
+                                                  //> stopDemo: (currentPop: Int, maxPop: Int)Boolean
+	controlLoop(1, 0, stopDemo, updatePop)    //> currentPop = 1
+                                                  //| currentPop = 2
+                                                  //| currentPop = 4
+                                                  //| currentPop = 8
+                                                  //| currentPop = 16
+                                                  //| currentPop = 32
+                                                  //| currentPop = 64
+                                                  //| currentPop = 128
+                                                  //| currentPop = 256
+                                                  //| currentPop = 512
+                                                  //| currentPop = 1024
+                                                  //| currentPop = 2048
+                                                  //| currentPop = 4096
+                                                  //| currentPop = 8192
+                                                  //| currentPop = 16384
+                                                  //| currentPop = 32768
+                                                  //| currentPop = 65536
+                                                  //| res0: Int = 131072
+	// The final population size is 131072.
+	
+	def population(): Int = {
+  		def halt(pop: Int, cycle: Int) = pop >= 100000
+  		def update(pop: Int, cycle: Int) = 2 * pop
+  		controlLoop(1, 0, halt, update)
+  }                                               //> population: ()Int
+	population
+	
+  /********** #3 **********/
+  
+  /********** #4 **********/
+  
+  /********** #5 **********/
+  
+  /********** #6 **********/
+  
+}

@@ -1,0 +1,80 @@
+object session {
+
+  /********** #1 **********/
+  // Generic compose combinator
+  // (the input of f should be the same as the output of g)
+	def compose[A, B](f: A => B, g: B => A): B => B = {
+		def r(x: B):
+			B = f(g(x));
+   	r _
+	}
+	
+	// --- Tester functions --- //
+	def triple(x: Int): Int = 3 * x
+	def square(x: Int) = x * x
+	val squareTriple = compose(square _, triple _)
+	// Test without composition function
+	square(triple(2))
+	square(triple(5))
+	
+	// Testing the composition function
+	squareTriple(2)
+	squareTriple(5)
+	
+  
+  /********** #2 **********/
+  // f is composed with itself n times
+  def selfIter[T](f: T=>T, n: Int): T => T = {
+  		def id[T](x: T) = x
+  		if (n == 0) id
+  		else	 {
+  			def test = selfIter(f, n - 1)
+  			compose(f, test)
+  		}
+  }
+  
+  // --- Tester functions --- //
+  def inc(x: Double) = x + 1
+	def double(x: Double) = 2 * x
+	
+	// Testing the selfIter function
+	val selfDouble = selfIter(double _, 3)
+	// double(double(double(5))) = double(double(10)) = double(20) = 40
+	selfDouble(5)
+	val selfInc = selfIter(inc _, 2)
+	// inc(inc(5)) = inc(6) = 7
+	selfInc(5)
+	val doubleIncSelfIter = selfIter(compose(double _, inc _), 3)
+	// double(inc(double(inc(double(inc(4))))))
+	// = double(inc(double(inc(double(5)))))
+	// = double(inc(double(inc(10))))
+	// = double(inc(double(11)))
+	// = double(inc(22))
+	// = double(23) = 46
+	doubleIncSelfIter(4)
+
+  /********** #3 **********/
+  // how do i do this without iteration and with recursion instead
+  def countPass[T](values: Array[T], test: T => Boolean): Int = {
+  		var count = 0
+		for(value <- values if (test(value) == true)) count = count + 1
+		count
+  }
+  
+  // --- Tester functions --- //
+  def odd(n: Int) = n % 2 != 0
+  def pal(n: String) = n == n.reverse
+  
+  // expected: 3
+  countPass(Array(1, 2, 3, 4, 5), odd _)
+  // expected: 2
+  countPass(Array("mom", "dad", "dog"), pal _)
+  countPass(Array("racecar", "mississippi", "civic", "anna", "madam", "not a palindrome"), pal _)
+  
+  /********** #4 **********/
+  
+  
+  /********** #5 **********/
+  
+  
+}

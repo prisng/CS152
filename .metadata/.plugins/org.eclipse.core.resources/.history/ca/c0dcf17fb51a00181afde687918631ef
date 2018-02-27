@@ -1,0 +1,79 @@
+object session {
+
+  /********** #1 **********/
+  // Generic compose combinator
+  // (the input of f should be the same as the output of g)
+	def compose[A, B](f: A => B, g: B => A): B => B = {
+		def r(x: B):
+			B = f(g(x));
+   	r _
+	}                                         //> compose: [A, B](f: A => B, g: B => A)B => B
+	
+	// --- Tester functions --- //
+	def triple(x: Int): Int = 3 * x           //> triple: (x: Int)Int
+	def square(x: Int) = x * x                //> square: (x: Int)Int
+	val squareTriple = compose(square _, triple _)
+                                                  //> squareTriple  : Int => Int = session$$$Lambda$10/434091818@2acf57e3
+	// Test without composition function
+	square(triple(2))                         //> res0: Int = 36
+	square(triple(5))                         //> res1: Int = 225
+	
+	// Testing the composition function
+	squareTriple(2)                           //> res2: Int = 36
+	squareTriple(5)                           //> res3: Int = 225
+	
+  
+  /********** #2 **********/
+  // f is composed with itself n times
+  def selfIter[T](f: T=>T, n: Int): T => T = {
+  /*
+  		if (n == 0) f
+  		else	 {
+  			def test = selfIter(f, n - 1)
+  			compose(f, test)
+  		}
+  		*/
+  		n match {
+  			case n if n == 0 => f
+  			case _ => {
+  				def test = selfIter(f, n - 1)
+  				compose(f, test)
+  			}
+  		}
+  }                                               //> selfIter: [T](f: T => T, n: Int)T => T
+  
+  // --- Tester functions --- //
+  def inc(x: Double) = x + 1                      //> inc: (x: Double)Double
+	def double(x: Double) = 2 * x             //> double: (x: Double)Double
+	
+	// Testing the selfIter function
+	def doubleIncSelfIter(n: Int, m: Int) = {
+		def innerTest = selfIter(compose(double, inc), m)
+		innerTest(n)
+	}                                         //> doubleIncSelfIter: (n: Int, m: Int)Double
+	var a = selfIter(compose(double _, inc _), 1) //> a  : Double => Double = session$$$Lambda$10/434091818@60f82f98
+	// double(inc(3)) = double(4) = 8
+	doubleIncSelfIter(3, 0)                   //> res4: Double = 8.0
+	// double(inc(double(inc(4)))) = double(inc(double(5))) = double(inc(10)) = double(11) = 22
+	doubleIncSelfIter(4, 1)                   //> res5: Double = 22.0
+	// double(inc(double(inc(double(inc(double(inc(5))))))))
+	// = double(inc(double(inc(double(inc(double(6)))))))
+	// = double(inc(double(inc(double(inc(12))))))
+	// = double(inc(double(inc(double(13)))))
+	// = double(inc(double(inc(26))))
+	// = double(inc(double(27)))
+	// = double(inc(54))
+	// = double(55) = 110
+	doubleIncSelfIter(5, 3)                   //> res6: Double = 110.0
+	
+
+  /********** #3 **********/
+  
+  
+  /********** #4 **********/
+  
+  
+  /********** #5 **********/
+  
+  
+}
