@@ -1,0 +1,148 @@
+object combinators {
+
+  /********** #1 **********/
+  // Generic compose combinator
+  // (the input of f should be the same as the output of g)
+	def compose[A, B](f: A => B, g: B => A): B => B = {
+		def r(x: B):
+			B = f(g(x));
+   	r _
+	}
+	
+	// --- Tester functions --- //
+	def triple(x: Int): Int = 3 * x
+	def square(x: Int) = x * x
+	val squareTriple = compose(square _, triple _)
+	// Test without composition function
+	square(triple(2))
+	square(triple(5))
+	
+	// Testing the composition function
+	squareTriple(2)
+	squareTriple(5)
+	
+  
+  /********** #2 **********/
+  // f is composed with itself n times
+  def selfIter[T](f: T=>T, n: Int): T => T = {
+  		def id[T](x: T) = x
+  		if (n == 0) id
+  		else	 compose(f, selfIter(f, n - 1))
+  }
+  
+  // --- Tester functions --- //
+  def inc(x: Double) = x + 1
+	def double(x: Double) = 2 * x
+	
+	// Testing the selfIter function
+	val selfDouble = selfIter(double _, 3)
+	// double(double(double(5))) = double(double(10)) = double(20) = 40
+	selfDouble(5)
+	val selfInc = selfIter(inc _, 2)
+	// inc(inc(5)) = inc(6) = 7
+	selfInc(5)
+	val doubleIncSelfIter = selfIter(compose(double _, inc _), 3)
+	// double(inc(double(inc(double(inc(4))))))
+	// = double(inc(double(inc(double(5)))))
+	// = double(inc(double(inc(10))))
+	// = double(inc(double(11)))
+	// = double(inc(22))
+	// = double(23) = 46
+	doubleIncSelfIter(4)
+
+
+  /********** #3 **********/
+  
+  def countPass[T](values: Array[T], test: T => Boolean): Int = {
+  /*
+  		var count = 0
+		for(value <- values if (test(value) == true)) count = count + 1
+		count
+		*/
+		def counter(c: Int, i: Int): Int =
+  		if(i >= values.length) c else if(test(values(i))) counter(c+1,i+1) else counter(c,i+1)
+		counter(0,0)
+  }
+  
+  // --- Tester functions --- //
+  def odd(n: Int) = n % 2 != 0
+  def pal(n: String) = n == n.reverse
+  
+  countPass(Array(1, 2, 3, 4, 5), odd _)
+  countPass(Array(2, 5, 13, 17, 19, 20), odd _)
+
+  countPass(Array("mom", "dad", "dog"), pal _)
+  countPass(Array("racecar", "civic", "anna", "madam"), pal _)
+  
+  /********** #4 **********/
+  
+  def recur(baseVal: Int, combiner: (Int, Int) => Int): Int => Int = {
+ 		def f(n: Int): Int = {
+			if (n == 0) baseVal
+			else combiner(n, f(n - 1))
+ 		}
+ 		f _
+  }
+  
+  
+ 	// --- Tester functions --- //
+	val factorial = recur(1, _ * _)
+	val tri = recur(0, (n: Int, m: Int) => n + m)
+	
+	factorial(5)
+	factorial(4)
+	factorial(3)
+	
+	tri(5)
+ 	tri(4)
+ 	tri(3)
+
+
+  /********** #5 **********/
+  
+  /*
+	def deOptionize[S, T](f: S => Option[T]) = {
+    def g(x: S) = {
+      if (f(x) == None) throw new Exception("This is not a string of digits.")
+      else Some(x)
+    }
+    g _
+  }
+  */
+  
+	def deOptionize[S, T](f: T => Option[S]): T => S = {
+		def g(x: T): S = {
+			f(x) match {
+				case None => throw new Exception("This is not a string of digits.")
+				case Some(result) => result
+			}
+		}
+		g _
+	}
+	
+  	// --- Tester function --- //
+	def parseDigits(digits: String): Option[Int] =
+		if (digits.matches("[0-9]*")) Some(digits.toInt) else None
+	
+	val f = deOptionize(parseDigits _)
+	try {
+		println(f("809123"))
+		println(f("0101010101"))
+		println(f("blah123blah"))
+		println(f("these are not digits"))
+	} catch {
+    case e: Exception => println(e)
+ 	}
+	
+   /*
+   def deOptionize2[T,S](f: T=>Option[S]): T => S = {
+		def r(x: T): S = {
+			f(x) match {
+				case None => throw new Exception("bad input")
+				case Some(x) => S //lolz
+			}
+		}
+		r _
+	}
+	*/
+}

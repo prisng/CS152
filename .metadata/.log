@@ -2507,3 +2507,61 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/prisn
 
 !ENTRY org.eclipse.core.net 1 0 2018-02-26 15:50:43.909
 !MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.scala-ide.sdt.core 4 0 2018-02-26 21:43:17.472
+!MESSAGE Throwable during asyncExec
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/FunctionLab/src/session.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2018-02-26 21:43:17.473
+!MESSAGE Resource '/FunctionLab/src/session.sc' does not exist.
+
+!ENTRY org.scala-ide.sdt.core 4 0 2018-02-26 21:43:17.499
+!MESSAGE Throwable during asyncExec
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/FunctionLab/src/session.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2018-02-26 21:43:17.499
+!MESSAGE Resource '/FunctionLab/src/session.sc' does not exist.
+!SESSION 2018-02-26 21:45:08.867 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/prisng/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/prisng/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2018-02-26 21:45:23.185
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences

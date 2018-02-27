@@ -1,4 +1,4 @@
-object session {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(233); 
+object combinators {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(237); 
 
   /********** #1 **********/
   // Generic compose combinator
@@ -48,15 +48,22 @@ object session {;import org.scalaide.worksheet.runtime.library.WorksheetSupport.
 	// = double(inc(double(11)))
 	// = double(inc(22))
 	// = double(23) = 46
-	doubleIncSelfIter(4);System.out.println("""res6: Double = """ + $show(res$6));$skip(196); 
+	doubleIncSelfIter(4);System.out.println("""res6: Double = """ + $show(res$6));$skip(430); 
 
 
   /********** #3 **********/
   
   def countPass[T](values: Array[T], test: T => Boolean): Int = {
+		def counter(result: Int, count: Int): Int =
+  			if (count >= values.length) result
+  			else if (test(values(count))) counter(result + 1, count + 1)
+  			else counter(result, count + 1)
+		counter(0,0)
+		/* Iterative solution:
   		var count = 0
 		for(value <- values if (test(value) == true)) count = count + 1
 		count
+		*/
   };System.out.println("""countPass: [T](values: Array[T], test: T => Boolean)Int""");$skip(67); 
   
   // --- Tester functions --- //
@@ -90,24 +97,26 @@ object session {;import org.scalaide.worksheet.runtime.library.WorksheetSupport.
 	
 	tri(5);System.out.println("""res14: Int = """ + $show(res$14));$skip(9); val res$15 = 
  	tri(4);System.out.println("""res15: Int = """ + $show(res$15));$skip(9); val res$16 = 
- 	tri(3);System.out.println("""res16: Int = """ + $show(res$16));$skip(216); 
+ 	tri(3);System.out.println("""res16: Int = """ + $show(res$16));$skip(247); 
 
 
   /********** #5 **********/
   
-	def deOptionize[S, T](f: S => Option[T]) = {
-    def g(x: S) = {
-      if (f(x) == None) throw new Exception("This is not a string of digits.")
-      else Some(x)
-    }
-    g _
-  };System.out.println("""deOptionize: [S, T](f: S => Option[T])S => Some[S]""");$skip(145); 
-  
+	def deOptionize[S, T](f: T => Option[S]): T => S = {
+		def g(x: T): S = {
+			f(x) match {
+				case None => throw new Exception("This is not a string of digits.")
+				case Some(result) => result
+			}
+		}
+		g _
+	};System.out.println("""deOptionize: [S, T](f: T => Option[S])T => S""");$skip(144); 
+	
   	// --- Tester function --- //
 	def parseDigits(digits: String): Option[Int] =
 		if (digits.matches("[0-9]*")) Some(digits.toInt) else None;System.out.println("""parseDigits: (digits: String)Option[Int]""");$skip(38); 
 	
-	val f = deOptionize(parseDigits _);System.out.println("""f  : String => Some[String] = """ + $show(f ));$skip(173); 
+	val f = deOptionize(parseDigits _);System.out.println("""f  : String => Int = """ + $show(f ));$skip(173); 
 	try {
 		println(f("809123"))
 		println(f("0101010101"))
