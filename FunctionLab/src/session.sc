@@ -28,10 +28,7 @@ object session {
   def selfIter[T](f: T=>T, n: Int): T => T = {
   		def id[T](x: T) = x
   		if (n == 0) id
-  		else	 {
-  			def test = selfIter(f, n - 1)
-  			compose(f, test)
-  		}
+  		else	 compose(f, selfIter(f, n - 1))
   }                                               //> selfIter: [T](f: T => T, n: Int)T => T
   
   // --- Tester functions --- //
@@ -56,66 +53,73 @@ object session {
 	// = double(23) = 46
 	doubleIncSelfIter(4)                      //> res6: Double = 46.0
 
+
   /********** #3 **********/
-  // how do i do this without iteration and with recursion instead
+  
   def countPass[T](values: Array[T], test: T => Boolean): Int = {
-  /*
   		var count = 0
 		for(value <- values if (test(value) == true)) count = count + 1
 		count
-		*/
-		1
   }                                               //> countPass: [T](values: Array[T], test: T => Boolean)Int
   
   // --- Tester functions --- //
   def odd(n: Int) = n % 2 != 0                    //> odd: (n: Int)Boolean
   def pal(n: String) = n == n.reverse             //> pal: (n: String)Boolean
   
-  countPass(Array(1, 2, 3, 4, 5), odd _)          //> res7: Int = 1
-  countPass(Array(2, 5, 13, 17, 19, 20), odd _)   //> res8: Int = 1
+  countPass(Array(1, 2, 3, 4, 5), odd _)          //> res7: Int = 3
+  countPass(Array(2, 5, 13, 17, 19, 20), odd _)   //> res8: Int = 4
 
-  countPass(Array("mom", "dad", "dog"), pal _)    //> res9: Int = 1
+  countPass(Array("mom", "dad", "dog"), pal _)    //> res9: Int = 2
   countPass(Array("racecar", "civic", "anna", "madam"), pal _)
-                                                  //> res10: Int = 1
+                                                  //> res10: Int = 4
   
   /********** #4 **********/
-  // this is also the iterative solution, not recursive
   
   def recur(baseVal: Int, combiner: (Int, Int) => Int): Int => Int = {
-  		/*
-		def f(n: Int): Int = {
- 			var result = baseVal
- 			for (count <- 1 to n)
- 				result = combiner(count, result)
- 			result
- 		}
- 		f _
- 		*/
  		def f(n: Int): Int = {
-			//if (baseVal == 0) 0
- 			//else f(combiner(n, n - 1))
- 			1
+			if (n == 0) baseVal
+			else combiner(n, f(n - 1))
  		}
  		f _
   }                                               //> recur: (baseVal: Int, combiner: (Int, Int) => Int)Int => Int
   
   
  	// --- Tester functions --- //
-	val factorial = recur(1, _ * _)           //> factorial  : Int => Int = session$$$Lambda$21/1020923989@7a5d012c
+	val factorial = recur(1, _ * _)           //> factorial  : Int => Int = session$$$Lambda$24/760563749@327471b5
 	val tri = recur(0, (n: Int, m: Int) => n + m)
-                                                  //> tri  : Int => Int = session$$$Lambda$21/1020923989@7a5d012c
+                                                  //> tri  : Int => Int = session$$$Lambda$24/760563749@90f6bfd
 	
-	factorial(5)                              //> res11: Int = 1
-	factorial(4)                              //> res12: Int = 1
-	factorial(3)                              //> res13: Int = 1
+	factorial(5)                              //> res11: Int = 120
+	factorial(4)                              //> res12: Int = 24
+	factorial(3)                              //> res13: Int = 6
 	
-	tri(5)                                    //> res14: Int = 1
- 	tri(4)                                    //> res15: Int = 1
- 	tri(3)                                    //> res16: Int = 1
-  
+	tri(5)                                    //> res14: Int = 15
+ 	tri(4)                                    //> res15: Int = 10
+ 	tri(3)                                    //> res16: Int = 6
+
+
   /********** #5 **********/
   
-  def deOptionize[S, T](f: S => Option[T]): S => T = { null }
-                                                  //> deOptionize: [S, T](f: S => Option[T])S => T
+	def deOptionize[S, T](f: S => Option[T]) = {
+    def g(x: S) = {
+      if (f(x) == None) throw new Exception("This is not a string of digits.")
+      else Some(x)
+    }
+    g _
+  }                                               //> deOptionize: [S, T](f: S => Option[T])S => Some[S]
   
+  	// --- Tester function --- //
+	def parseDigits(digits: String): Option[Int] =
+		if (digits.matches("[0-9]*")) Some(digits.toInt) else None
+                                                  //> parseDigits: (digits: String)Option[Int]
+	
+	val f = deOptionize(parseDigits _)        //> f  : String => Some[String] = session$$$Lambda$27/1796488937@1936f0f5
+	try {
+		println(f("809123"))
+		println(f("blah123blah"))
+		println(f("these are not digits"))
+	} catch {
+    case e: Exception => println(e)
+ 	}                                         //> Some(809123)
+                                                  //| java.lang.Exception: This is not a string of digits.
 }

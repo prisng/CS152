@@ -7023,3 +7023,83 @@ Standard error:
 2018-02-26 20:31:55,249  WARN [Worker-30] - ScalaProject - Project FunctionLab runs on platform default installation.
 2018-02-26 20:31:56,814  WARN [Worker-23] - ScalaProject - Project FunctionLab has platform default sourceLevel.
 2018-02-26 20:31:56,814  WARN [Worker-23] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 20:36:43,753  WARN [Worker-16] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 20:36:43,753  WARN [Worker-16] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 20:36:44,398  WARN [Worker-28] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 20:36:44,398  WARN [Worker-28] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 20:36:45,142  WARN [Worker-16] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 20:36:45,142  WARN [Worker-16] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 20:37:00,413  WARN [Worker-29] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 20:37:00,413  WARN [Worker-29] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 20:37:01,173  WARN [Worker-23] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 20:37:01,173  WARN [Worker-23] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 20:37:02,864  WARN [Worker-30] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 20:37:02,864  WARN [Worker-30] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 20:38:36,599  WARN [Worker-29] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 20:38:36,599  WARN [Worker-29] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 20:38:37,335  WARN [Worker-28] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 20:38:37,336  WARN [Worker-28] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 20:38:38,136  WARN [Worker-16] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 20:38:38,136  WARN [Worker-16] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 20:57:21,560  WARN [Worker-28] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 20:57:21,560  WARN [Worker-28] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 20:57:21,580 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-02-26 20:57:21,580 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-02-26 20:57:21,581 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-02-26 20:57:22,373  WARN [Worker-30] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 20:57:22,373  WARN [Worker-30] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 20:57:24,743  WARN [Worker-31] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 20:57:24,743  WARN [Worker-31] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 20:57:26,367  WARN [Worker-29] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 20:57:26,367  WARN [Worker-29] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 20:58:05,025  WARN [Worker-16] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 20:58:05,025  WARN [Worker-16] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 20:58:05,846  WARN [Worker-29] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 20:58:05,846  WARN [Worker-29] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 20:58:06,626  WARN [Worker-31] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 20:58:06,626  WARN [Worker-31] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 20:58:25,048  WARN [Worker-23] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 20:58:25,049  WARN [Worker-23] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 20:58:25,937  WARN [Worker-29] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 20:58:25,937  WARN [Worker-29] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 20:58:28,104  WARN [Worker-31] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 20:58:28,104  WARN [Worker-31] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 20:58:29,681  WARN [Worker-23] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 20:58:29,681  WARN [Worker-23] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 21:10:14,692  WARN [Worker-16] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 21:10:14,692  WARN [Worker-16] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 21:10:15,425  WARN [Worker-28] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 21:10:15,425  WARN [Worker-28] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 21:10:16,191  WARN [Worker-29] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 21:10:16,191  WARN [Worker-29] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 21:10:22,295  WARN [Worker-29] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 21:10:22,295  WARN [Worker-29] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 21:10:23,002  WARN [Worker-16] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 21:10:23,002  WARN [Worker-16] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 21:10:24,565  WARN [Worker-23] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 21:10:24,565  WARN [Worker-23] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 21:10:26,215  WARN [Worker-31] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 21:10:26,215  WARN [Worker-31] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 21:11:02,831  WARN [Worker-16] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 21:11:02,831  WARN [Worker-16] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 21:11:03,564  WARN [Worker-29] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 21:11:03,564  WARN [Worker-29] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 21:11:04,335  WARN [Worker-16] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 21:11:04,335  WARN [Worker-16] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 21:11:18,673  WARN [Worker-29] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 21:11:18,673  WARN [Worker-29] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 21:11:19,071 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-02-26 21:11:19,071 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-02-26 21:11:19,071 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-02-26 21:11:19,409  WARN [Worker-30] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 21:11:19,409  WARN [Worker-30] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 21:11:20,101  WARN [Worker-29] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 21:11:20,101  WARN [Worker-29] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 21:11:23,650  WARN [Worker-23] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 21:11:23,650  WARN [Worker-23] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 21:12:08,410  WARN [Worker-23] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 21:12:08,410  WARN [Worker-23] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 21:12:09,101  WARN [Worker-30] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 21:12:09,101  WARN [Worker-30] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-02-26 21:12:09,818  WARN [Worker-23] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-02-26 21:12:09,818  WARN [Worker-23] - ScalaProject - Project FunctionLab runs on platform default installation.

@@ -53,29 +53,41 @@ object session {
 	// = double(23) = 46
 	doubleIncSelfIter(4)                      //> res6: Double = 46.0
 
-
   /********** #3 **********/
-  
+  // how do i do this without iteration and with recursion instead
   def countPass[T](values: Array[T], test: T => Boolean): Int = {
+  /*
   		var count = 0
 		for(value <- values if (test(value) == true)) count = count + 1
 		count
+		*/
+		1
   }                                               //> countPass: [T](values: Array[T], test: T => Boolean)Int
   
   // --- Tester functions --- //
   def odd(n: Int) = n % 2 != 0                    //> odd: (n: Int)Boolean
   def pal(n: String) = n == n.reverse             //> pal: (n: String)Boolean
   
-  countPass(Array(1, 2, 3, 4, 5), odd _)          //> res7: Int = 3
-  countPass(Array(2, 5, 13, 17, 19, 20), odd _)   //> res8: Int = 4
+  countPass(Array(1, 2, 3, 4, 5), odd _)          //> res7: Int = 1
+  countPass(Array(2, 5, 13, 17, 19, 20), odd _)   //> res8: Int = 1
 
-  countPass(Array("mom", "dad", "dog"), pal _)    //> res9: Int = 2
+  countPass(Array("mom", "dad", "dog"), pal _)    //> res9: Int = 1
   countPass(Array("racecar", "civic", "anna", "madam"), pal _)
-                                                  //> res10: Int = 4
+                                                  //> res10: Int = 1
   
   /********** #4 **********/
+  // this is also the iterative solution, not recursive
   
   def recur(baseVal: Int, combiner: (Int, Int) => Int): Int => Int = {
+  		/*
+		def f(n: Int): Int = {
+ 			var result = baseVal
+ 			for (count <- 1 to n)
+ 				result = combiner(count, result)
+ 			result
+ 		}
+ 		f _
+ 		*/
  		def f(n: Int): Int = {
 			if (n == 0) baseVal
 			else combiner(n, f(n - 1))
@@ -85,9 +97,9 @@ object session {
   
   
  	// --- Tester functions --- //
-	val factorial = recur(1, _ * _)           //> factorial  : Int => Int = session$$$Lambda$24/760563749@327471b5
+	val factorial = recur(1, _ * _)           //> factorial  : Int => Int = session$$$Lambda$21/1068934215@73f792cf
 	val tri = recur(0, (n: Int, m: Int) => n + m)
-                                                  //> tri  : Int => Int = session$$$Lambda$24/760563749@90f6bfd
+                                                  //> tri  : Int => Int = session$$$Lambda$21/1068934215@38082d64
 	
 	factorial(5)                              //> res11: Int = 120
 	factorial(4)                              //> res12: Int = 24
@@ -113,7 +125,7 @@ object session {
 		if (digits.matches("[0-9]*")) Some(digits.toInt) else None
                                                   //> parseDigits: (digits: String)Option[Int]
 	
-	val f = deOptionize(parseDigits _)        //> f  : String => Some[String] = session$$$Lambda$27/1796488937@1936f0f5
+	val f = deOptionize(parseDigits _)        //> f  : String => Some[String] = session$$$Lambda$24/649734728@5f2050f6
 	try {
 		println(f("809123"))
 		println(f("blah123blah"))

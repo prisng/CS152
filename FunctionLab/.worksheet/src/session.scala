@@ -19,7 +19,7 @@ object session {;import org.scalaide.worksheet.runtime.library.WorksheetSupport.
 	
 	// Testing the composition function
 	squareTriple(2);System.out.println("""res2: Int = """ + $show(res$2));$skip(17); val res$3 = 
-	squareTriple(5);System.out.println("""res3: Int = """ + $show(res$3));$skip(242); 
+	squareTriple(5);System.out.println("""res3: Int = """ + $show(res$3));$skip(208); 
 	
   
   /********** #2 **********/
@@ -27,10 +27,7 @@ object session {;import org.scalaide.worksheet.runtime.library.WorksheetSupport.
   def selfIter[T](f: T=>T, n: Int): T => T = {
   		def id[T](x: T) = x
   		if (n == 0) id
-  		else	 {
-  			def test = selfIter(f, n - 1)
-  			compose(f, test)
-  		}
+  		else	 compose(f, selfIter(f, n - 1))
   };System.out.println("""selfIter: [T](f: T => T, n: Int)T => T""");$skip(65); 
   
   // --- Tester functions --- //
@@ -51,17 +48,15 @@ object session {;import org.scalaide.worksheet.runtime.library.WorksheetSupport.
 	// = double(inc(double(11)))
 	// = double(inc(22))
 	// = double(23) = 46
-	doubleIncSelfIter(4);System.out.println("""res6: Double = """ + $show(res$6));$skip(273); 
+	doubleIncSelfIter(4);System.out.println("""res6: Double = """ + $show(res$6));$skip(196); 
+
 
   /********** #3 **********/
-  // how do i do this without iteration and with recursion instead
+  
   def countPass[T](values: Array[T], test: T => Boolean): Int = {
-  /*
   		var count = 0
 		for(value <- values if (test(value) == true)) count = count + 1
 		count
-		*/
-		1
   };System.out.println("""countPass: [T](values: Array[T], test: T => Boolean)Int""");$skip(67); 
   
   // --- Tester functions --- //
@@ -72,25 +67,14 @@ object session {;import org.scalaide.worksheet.runtime.library.WorksheetSupport.
   countPass(Array(2, 5, 13, 17, 19, 20), odd _);System.out.println("""res8: Int = """ + $show(res$8));$skip(48); val res$9 = 
 
   countPass(Array("mom", "dad", "dog"), pal _);System.out.println("""res9: Int = """ + $show(res$9));$skip(63); val res$10 = 
-  countPass(Array("racecar", "civic", "anna", "madam"), pal _);System.out.println("""res10: Int = """ + $show(res$10));$skip(418); 
+  countPass(Array("racecar", "civic", "anna", "madam"), pal _);System.out.println("""res10: Int = """ + $show(res$10));$skip(201); 
   
   /********** #4 **********/
-  // this is also the iterative solution, not recursive
   
   def recur(baseVal: Int, combiner: (Int, Int) => Int): Int => Int = {
-  		/*
-		def f(n: Int): Int = {
- 			var result = baseVal
- 			for (count <- 1 to n)
- 				result = combiner(count, result)
- 			result
- 		}
- 		f _
- 		*/
  		def f(n: Int): Int = {
-			//if (baseVal == 0) 0
- 			//else f(combiner(n, n - 1))
- 			1
+			if (n == 0) baseVal
+			else combiner(n, f(n - 1))
  		}
  		f _
   };System.out.println("""recur: (baseVal: Int, combiner: (Int, Int) => Int)Int => Int""");$skip(72); 
@@ -106,10 +90,29 @@ object session {;import org.scalaide.worksheet.runtime.library.WorksheetSupport.
 	
 	tri(5);System.out.println("""res14: Int = """ + $show(res$14));$skip(9); val res$15 = 
  	tri(4);System.out.println("""res15: Int = """ + $show(res$15));$skip(9); val res$16 = 
- 	tri(3);System.out.println("""res16: Int = """ + $show(res$16));$skip(97); 
-  
+ 	tri(3);System.out.println("""res16: Int = """ + $show(res$16));$skip(216); 
+
+
   /********** #5 **********/
   
-  def deOptionize[S, T](f: S => Option[T]): S => T = { null };System.out.println("""deOptionize: [S, T](f: S => Option[T])S => T""")}
+	def deOptionize[S, T](f: S => Option[T]) = {
+    def g(x: S) = {
+      if (f(x) == None) throw new Exception("This is not a string of digits.")
+      else Some(x)
+    }
+    g _
+  };System.out.println("""deOptionize: [S, T](f: S => Option[T])S => Some[S]""");$skip(145); 
   
+  	// --- Tester function --- //
+	def parseDigits(digits: String): Option[Int] =
+		if (digits.matches("[0-9]*")) Some(digits.toInt) else None;System.out.println("""parseDigits: (digits: String)Option[Int]""");$skip(38); 
+	
+	val f = deOptionize(parseDigits _);System.out.println("""f  : String => Some[String] = """ + $show(f ));$skip(146); 
+	try {
+		println(f("809123"))
+		println(f("blah123blah"))
+		println(f("these are not digits"))
+	} catch {
+    case e: Exception => println(e)
+ 	}}
 }
