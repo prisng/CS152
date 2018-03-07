@@ -50,8 +50,29 @@ object listSession {
 	x(3)                                      //> res10: Int = 4
 	x(4)                                      //> res11: Int = 5
 	
+	// filter list for odd numbers
+	// then reduce by adding them
 	
 	// Map-filter-reduce
+	def cubeSumFilter[T](predicate: T => Boolean, vals: List[T]): List[T] = {
+		if (vals == Nil) Nil
+    else if (predicate(vals.head)) vals.head::cubeSumFilter(predicate, vals.tail)
+    else cubeSumFilter(predicate, vals.tail)
+	}                                         //> cubeSumFilter: [T](predicate: T => Boolean, vals: List[T])List[T]
+	
+	def cubeSumReduce(vals: List[Int], initVal: Int, combiner: (Int, Int) => Int): Int = {
+		if (vals == Nil) initVal
+		else combiner(vals.head * vals.head * vals.head, cubeSumReduce(vals.tail, initVal, combiner))
+	}                                         //> cubeSumReduce: (vals: List[Int], initVal: Int, combiner: (Int, Int) => Int)
+                                                  //| Int
+                                                  
+	// Filters the odd numbers from the list, then adds their cubes
+	cubeSumReduce(cubeSumFilter(isOdd _, List(1, 2, 3, 4, 5)), 0, _ + _)
+                                                  //> res12: Int = 153
+	cubeSumReduce(cubeSumFilter(isOdd _, List(2, 4, 6, 8)), 0, _ + _)
+                                                  //> res13: Int = 0
+	cubeSumReduce(cubeSumFilter(isOdd _, List(3, 3, 3)), 0, _ + _)
+                                                  //> res14: Int = 81
 
 	/********** #2 **********/
 	

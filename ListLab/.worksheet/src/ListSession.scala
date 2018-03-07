@@ -47,10 +47,27 @@ object listSession {;import org.scalaide.worksheet.runtime.library.WorksheetSupp
 	val x = List(1, 2, 3, 4, 5);System.out.println("""x  : List[Int] = """ + $show(x ));$skip(8); val res$9 = 
 	x.size;System.out.println("""res9: Int = """ + $show(res$9));$skip(6); val res$10 = 
 	x(3);System.out.println("""res10: Int = """ + $show(res$10));$skip(6); val res$11 = 
-	x(4);System.out.println("""res11: Int = """ + $show(res$11))}
+	x(4);System.out.println("""res11: Int = """ + $show(res$11));$skip(317); 
 	
+	// filter list for odd numbers
+	// then reduce by adding them
 	
 	// Map-filter-reduce
+	def cubeSumFilter[T](predicate: T => Boolean, vals: List[T]): List[T] = {
+		if (vals == Nil) Nil
+    else if (predicate(vals.head)) vals.head::cubeSumFilter(predicate, vals.tail)
+    else cubeSumFilter(predicate, vals.tail)
+	};System.out.println("""cubeSumFilter: [T](predicate: T => Boolean, vals: List[T])List[T]""");$skip(216); 
+	
+	def cubeSumReduce(vals: List[Int], initVal: Int, combiner: (Int, Int) => Int): Int = {
+		if (vals == Nil) initVal
+		else combiner(vals.head * vals.head * vals.head, cubeSumReduce(vals.tail, initVal, combiner))
+	};System.out.println("""cubeSumReduce: (vals: List[Int], initVal: Int, combiner: (Int, Int) => Int)Int""");$skip(186); val res$12 = 
+                                                  
+	// Filters the odd numbers from the list, then adds their cubes
+	cubeSumReduce(cubeSumFilter(isOdd _, List(1, 2, 3, 4, 5)), 0, _ + _);System.out.println("""res12: Int = """ + $show(res$12));$skip(67); val res$13 = 
+	cubeSumReduce(cubeSumFilter(isOdd _, List(2, 4, 6, 8)), 0, _ + _);System.out.println("""res13: Int = """ + $show(res$13));$skip(64); val res$14 = 
+	cubeSumReduce(cubeSumFilter(isOdd _, List(3, 3, 3)), 0, _ + _);System.out.println("""res14: Int = """ + $show(res$14))}
 
 	/********** #2 **********/
 	
