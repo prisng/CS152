@@ -1,5 +1,11 @@
-object listSessionII {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(116); 
+object listSessionII {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(318); 
 
+	/***** REMEMBER TO REFORMAT CODE*****/
+	/************************************/
+	/************************************/
+	/************************************/
+	/************************************/
+	
   	/********** #1 **********/
   	// Helper function
   	def add(x: Double, y: Double) = x + y;System.out.println("""add: (x: Double, y: Double)Double""");$skip(85); 
@@ -89,22 +95,7 @@ object listSessionII {;import org.scalaide.worksheet.runtime.library.WorksheetSu
 
 	def evalPoly(poly: List[(Double, Double)], x: Double): Double = {
 	0.0
-	};System.out.println("""evalPoly: (poly: List[(Double, Double)], x: Double)Double""");$skip(214); 
+	};System.out.println("""evalPoly: (poly: List[(Double, Double)], x: Double)Double""")}
 	// result of substituting x in poly
-	
-	
-	def avg2(nums: List[Double]): Double = {
-    if (nums.length == 0) throw new Exception("length = 0")
-    var sum = 0.0
-    for(i <- nums) sum += i
-    sum / nums.length
-	};System.out.println("""avg2: (nums: List[Double])Double""");$skip(53); 
-
-def max(x: Double, y: Double) = if (x < y) y else x;System.out.println("""max: (x: Double, y: Double)Double""");$skip(109); 
-
-	val hihi = List(List(100.0, 95.0, 86.0, 42.0), List(35.0, 73.1, 80.0, 43.9), List(66.0, 80.0, 23.9, 55.0));System.out.println("""hihi  : List[List[Double]] = """ + $show(hihi ));$skip(18); val res$11 = 
-	hihi.map(avg2 _);System.out.println("""res11: List[Double] = """ + $show(res$11));$skip(32); val res$12 = 
-	hihi.map(avg2 _).reduce(max _);System.out.println("""res12: Double = """ + $show(res$12))}
-	
 	
 }
