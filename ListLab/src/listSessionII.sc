@@ -84,4 +84,39 @@ object listSessionII {
                                                   //> res9: List[String] = List(eenie, miney)
 	
 	/********** #4 **********/
+	
+	val list = List((3.0, 2.0), (-5.0, 0.0))  //> list  : List[(Double, Double)] = List((3.0,2.0), (-5.0,0.0))
+	
+	// tuple --> use mono._1 to get first double, mono._2 to get second double
+	def evalMono(mono: (Double, Double), x: Double): Double = {
+	0.0
+	}                                         //> evalMono: (mono: (Double, Double), x: Double)Double
+	
+	evalMono((3.0, 2.0), 5.0)                 //> res10: Double = 0.0
+	
+	//result of substituting x in mono
+
+	def evalPoly(poly: List[(Double, Double)], x: Double): Double = {
+	0.0
+	}                                         //> evalPoly: (poly: List[(Double, Double)], x: Double)Double
+	// result of substituting x in poly
+	
+	
+	def avg2(nums: List[Double]): Double = {
+    if (nums.length == 0) throw new Exception("length = 0")
+    var sum = 0.0
+    for(i <- nums) sum += i
+    sum / nums.length
+	}                                         //> avg2: (nums: List[Double])Double
+
+def max(x: Double, y: Double) = if (x < y) y else x
+                                                  //> max: (x: Double, y: Double)Double
+
+	val hihi = List(List(100.0, 95.0, 86.0, 42.0), List(35.0, 73.1, 80.0, 43.9), List(66.0, 80.0, 23.9, 55.0))
+                                                  //> hihi  : List[List[Double]] = List(List(100.0, 95.0, 86.0, 42.0), List(35.0,
+                                                  //|  73.1, 80.0, 43.9), List(66.0, 80.0, 23.9, 55.0))
+	hihi.map(avg2 _)                          //> res11: List[Double] = List(80.75, 58.0, 56.225)
+	hihi.map(avg2 _).reduce(max _)            //> res12: Double = 80.75
+	
+	
 }

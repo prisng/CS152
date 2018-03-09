@@ -1,13 +1,23 @@
 object listSession {
 //1, 2, 6, 7, & 8 -- 4 versions
 // iterative, recursive, tail-recursive, map-filter-reduce
-
-	/********** #1 **********/ // Cubing and summing the odd numbers in a list
-	// Helper functions
-	def isOdd(n: Int) = if (n % 2 != 0) true else false
-                                                  //> isOdd: (n: Int)Boolean
-	def cube(n: Int) = n * n * n              //> cube: (n: Int)Int
 	
+	// --- Tester functions --- //
+	def isOdd(n: Int) = n % 2 != 0            //> isOdd: (n: Int)Boolean
+	def cube(n: Int) = n * n * n              //> cube: (n: Int)Int
+	def add(list: List[Int]): Int = {
+		var sum = 0
+		for (num <- list) sum = sum + num
+		sum
+	}                                         //> add: (list: List[Int])Int
+	def isEven(x: Int) = x % 2 == 0           //> isEven: (x: Int)Boolean
+	def isPalindrome(n: String) = n == n.reverse
+                                                  //> isPalindrome: (n: String)Boolean
+  // ------------------------ //
+  
+  
+	/********** #1 **********/ // Cubing and summing the odd numbers in a list
+  
 	// Iterative
 	def cubeSumIterative(vals: List[Int]) = {
 		var sum = 0
@@ -48,34 +58,14 @@ object listSession {
 	cubeSumTR(List(2, 4, 6, 8))               //> res7: Int = 0
 	cubeSumTR(List(3, 3, 3))                  //> res8: Int = 81
 	
-	// Map-filter-reduce (Only filter and reduce in this case)
+	// Map-filter-reduce
 	def cubeSumMFR(vals: List[Int]) = {
 		// filter -> odd numbers
 		// map -> cube them
 		// reduce -> sum them
 		vals.filter(isOdd).map(cube).reduce(_ + _)
 	}                                         //> cubeSumMFR: (vals: List[Int])Int
-	cubeSumMFR(List(1, 2, 3, 4, 5))           //> res9: Int = 153
 	
-	def cubeSumFilter[T](predicate: T => Boolean, vals: List[T]): List[T] = {
-		if (vals == Nil) Nil
-    else if (predicate(vals.head)) vals.head::cubeSumFilter(predicate, vals.tail)
-    else cubeSumFilter(predicate, vals.tail)
-	}                                         //> cubeSumFilter: [T](predicate: T => Boolean, vals: List[T])List[T]
-	
-	def cubeSumReduce(vals: List[Int], initVal: Int, combiner: (Int, Int) => Int): Int = {
-		if (vals == Nil) initVal
-		else combiner(cube(vals.head), cubeSumReduce(vals.tail, initVal, combiner))
-	}                                         //> cubeSumReduce: (vals: List[Int], initVal: Int, combiner: (Int, Int) => Int)
-                                                  //| Int
-                                                  
-	// Filters the odd numbers from the list, then adds their cubes
-	cubeSumReduce(cubeSumFilter(isOdd _, List(1, 2, 3, 4, 5)), 0, _ + _)
-                                                  //> res10: Int = 153
-	cubeSumReduce(cubeSumFilter(isOdd _, List(2, 4, 6, 8)), 0, _ + _)
-                                                  //> res11: Int = 0
-	cubeSumReduce(cubeSumFilter(isOdd _, List(3, 3, 3)), 0, _ + _)
-                                                  //> res12: Int = 81
 
 	/********** #2 **********/ // Sum of numbers in a list of lists of numbers
 
@@ -91,7 +81,9 @@ object listSession {
 	}                                         //> sumOfSumsIterative: (lists: List[List[Int]])Int
 	
 	sumOfSumsIterative(List(List(1, 2, 3), List(4, 5, 6)))
-                                                  //> res13: Int = 21
+                                                  //> res9: Int = 21
+	sumOfSumsIterative(List(List(1, 2, 3), List(25, 25, 25, 25), List(5, 10, 15)))
+                                                  //> res10: Int = 136
 	
 	// Recursive
 	def sumOfSumsRecursive(lists: List[List[Int]]): Int = {
@@ -103,47 +95,62 @@ object listSession {
 			else sumOfList(lists.head) + sumOfSumsRecursive(lists.tail)
 	}                                         //> sumOfSumsRecursive: (lists: List[List[Int]])Int
 	
-	val test = List(List(1, 2, 3), List(4, 5, 6))
-                                                  //> test  : List[List[Int]] = List(List(1, 2, 3), List(4, 5, 6))
-
 	sumOfSumsRecursive(List(List(1, 2, 3), List(4, 5, 6)))
-                                                  //> res14: Int = 21
+                                                  //> res11: Int = 21
+	sumOfSumsRecursive(List(List(1, 2, 3), List(25, 25, 25, 25), List(5, 10, 15)))
+                                                  //> res12: Int = 136
+	
 	// Tail-recursive
 	def sumOfSumsTR(lists: List[List[Int]]) = {
-		def helper(count: Int, result: Int): Int = {
-			if (count == 0) result
-			else helper(count - 1, result + lists.head.head + lists.tail.head.head)
+		def helper(list: List[List[Int]], result: Int): Int = {
+			if (list == Nil) result
+			else helper(list.tail, result + add(list.head))
 		}
-		helper(lists.flatten.size, 0)
+		helper(lists, 0)
 	}                                         //> sumOfSumsTR: (lists: List[List[Int]])Int
 	
 	sumOfSumsTR(List(List(1, 2, 3), List(4, 5, 6)))
-                                                  //> res15: Int = 30
-	
-	/*
-	def cubeSumTR(vals: List[Int]) = {
-		def helper(count: Int, result: Int): Int = {
-			if (count < 0) result
-			else if (isOdd(vals(count)))
-				helper(count - 1, result + vals(count) * vals(count) * vals(count))
-			else helper(count - 1, result)
-		}
-		helper(vals.size - 1, 0)
-	}
-	*/
+                                                  //> res13: Int = 21
+	sumOfSumsTR(List(List(1, 2, 3), List(25, 25, 25, 25), List(5, 10, 15)))
+                                                  //> res14: Int = 136
 	
 	// Map-filter-reduce
+	def sumOfSumsMFR(lists: List[List[Int]]): Int = {
+		lists.map(add _).reduce(_ + _)
+	}                                         //> sumOfSumsMFR: (lists: List[List[Int]])Int
+	
+	sumOfSumsMFR(List(List(1, 2, 3), List(4, 5, 6)))
+                                                  //> res15: Int = 21
+	sumOfSumsMFR(List(List(1, 2, 3), List(25, 25, 25, 25), List(5, 10, 15)))
+                                                  //> res16: Int = 136
+	
 	
 	/********** #3 **********/
+	
+	
 
 	/********** #6 **********/
+	// Write a function that returns the number of elements in a list that satisfy a given predicate.
+	// (The predicate is a parameter of type T=>Boolean.)
+	
 	// Iterative
+	def countPassIterative[T](list: List[T], predicate: T => Boolean) = {
+	
+	}                                         //> countPassIterative: [T](list: List[T], predicate: T => Boolean)Unit
 	
 	// Recursive
 	
 	// Tail-recurisve
 	
 	// Map-filter-reduce
+	def countPassFilter[T](list: List[T], predicate: T => Boolean): Int = {
+		list.filter(predicate).size
+	}                                         //> countPassFilter: [T](list: List[T], predicate: T => Boolean)Int
+	countPassFilter(List(1, 2, 3, 4, 5, 6, 7, 8), isEven _)
+                                                  //> res17: Int = 4
+	countPassFilter(List("mom", "dad", "dog"), isPalindrome _)
+                                                  //> res18: Int = 2
+	
 	/********** #7 **********/
 
 	// Iterative
@@ -170,8 +177,8 @@ object listSession {
 		if (vals == vals.sorted) true else false
                                                   //> isSorted: (vals: List[Int])Boolean
 	
-	isSorted(List(1, 2, 3, 4, 5))             //> res16: Boolean = true
-	isSorted(List(7, 1, 3, 22, 5))            //> res17: Boolean = false
+	isSorted(List(1, 2, 3, 4, 5))             //> res19: Boolean = true
+	isSorted(List(7, 1, 3, 22, 5))            //> res20: Boolean = false
 	
 	/********** #13 **********/
 }

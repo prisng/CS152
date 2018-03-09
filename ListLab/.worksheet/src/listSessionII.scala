@@ -72,7 +72,39 @@ object listSessionII {;import org.scalaide.worksheet.runtime.library.WorksheetSu
 	def spellCheckFilter(doc: List[String], dictionary: List[String]): List[String] = {
 		doc.filter(!dictionary.contains(_))
 	};System.out.println("""spellCheckFilter: (doc: List[String], dictionary: List[String])List[String]""");$skip(80); val res$9 = 
-	spellCheckFilter(List("eenie", "meenie", "miney", "mo"), List("meenie", "mo"));System.out.println("""res9: List[String] = """ + $show(res$9))}
+	spellCheckFilter(List("eenie", "meenie", "miney", "mo"), List("meenie", "mo"));System.out.println("""res9: List[String] = """ + $show(res$9));$skip(74); 
 	
 	/********** #4 **********/
+	
+	val list = List((3.0, 2.0), (-5.0, 0.0));System.out.println("""list  : List[(Double, Double)] = """ + $show(list ));$skip(147); 
+	
+	// tuple --> use mono._1 to get first double, mono._2 to get second double
+	def evalMono(mono: (Double, Double), x: Double): Double = {
+	0.0
+	};System.out.println("""evalMono: (mono: (Double, Double), x: Double)Double""");$skip(29); val res$10 = 
+	
+	evalMono((3.0, 2.0), 5.0);System.out.println("""res10: Double = """ + $show(res$10));$skip(114); 
+	
+	//result of substituting x in mono
+
+	def evalPoly(poly: List[(Double, Double)], x: Double): Double = {
+	0.0
+	};System.out.println("""evalPoly: (poly: List[(Double, Double)], x: Double)Double""");$skip(214); 
+	// result of substituting x in poly
+	
+	
+	def avg2(nums: List[Double]): Double = {
+    if (nums.length == 0) throw new Exception("length = 0")
+    var sum = 0.0
+    for(i <- nums) sum += i
+    sum / nums.length
+	};System.out.println("""avg2: (nums: List[Double])Double""");$skip(53); 
+
+def max(x: Double, y: Double) = if (x < y) y else x;System.out.println("""max: (x: Double, y: Double)Double""");$skip(109); 
+
+	val hihi = List(List(100.0, 95.0, 86.0, 42.0), List(35.0, 73.1, 80.0, 43.9), List(66.0, 80.0, 23.9, 55.0));System.out.println("""hihi  : List[List[Double]] = """ + $show(hihi ));$skip(18); val res$11 = 
+	hihi.map(avg2 _);System.out.println("""res11: List[Double] = """ + $show(res$11));$skip(32); val res$12 = 
+	hihi.map(avg2 _).reduce(max _);System.out.println("""res12: Double = """ + $show(res$12))}
+	
+	
 }
