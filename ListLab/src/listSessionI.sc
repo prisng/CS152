@@ -19,7 +19,8 @@ object listSession {
   // ------------------------ //
   
   
-	/********** #1 **********/ // Cubing and summing the odd numbers in a list
+	/********** #1 **********/
+	/** Cubing and summing the odd numbers in a list **/
   
 	// Iterative
 	def cubeSumIterative(vals: List[Int]) = {
@@ -63,14 +64,13 @@ object listSession {
 	
 	// Map-filter-reduce
 	def cubeSumMFR(vals: List[Int]) = {
-		// filter -> odd numbers
-		// map -> cube them
-		// reduce -> sum them
+		// filter -> odd numbers, map -> cube them, reduce -> sum them
 		vals.filter(isOdd).map(cube).reduce(_ + _)
 	}
 	
 
-	/********** #2 **********/ // Sum of numbers in a list of lists of numbers
+	/********** #2 **********/
+	/** Sum of numbers in a list of lists of numbers **/
 
 	// Iterative
 	def sumOfSumsIterative(lists: List[List[Int]]) = {
@@ -121,14 +121,26 @@ object listSession {
 	
 	
 	/********** #3 **********/
-	// ex. depth(List(List(List 1, 2, List(3)))) = 4
+	/** Write a function that returns the depth of a list of nested lists:
+			ex. depth(List(List(List 1, 2, List(3)))) = 4 **/
 	
-	
+	def depth(v: Any): Int = {
+		v match {
+			case Nil => 0
+			case h::t if (v.isInstanceOf[Any]) =>
+				if (depth(h) > depth(t)) depth(h) + 1
+				else depth(t)
+			case _ => 0
+		}
+	}
+  		
+	depth(List(List(List(1, 2, List(3)))))
+	depth(List(List(3), List(((4)))))
 
 	/********** #6 **********/
-	// Write a function that returns the number of elements in a list that satisfy a given predicate.
-	// (The predicate is a parameter of type T=>Boolean.)
-	
+	/** Write a function that returns the number of elements in a list
+			that satisfy a given predicate. **/
+
 	// Iterative
 	def countPassIterative[T](list: List[T], predicate: T => Boolean): Int = {
 		var passed = 0
@@ -172,7 +184,7 @@ object listSession {
 	countPassFilter(List("mom", "dad", "dog"), isPalindrome _)
 	
 	/********** #7 **********/
-	// Write a function that returns true if all elements in a list satisfy a given predicate.
+	/** Write a function that returns true if ALL elements in a list satisfy a given predicate. **/
 	
 	// Iterative
 	def passIterative[T](list: List[T], predicate: T => Boolean): Boolean = {
@@ -228,8 +240,8 @@ object listSession {
 	passFilter(List("mom", "dad", "poop", "lol"), isPalindrome _)
 	
 	/********** #8 **********/
-	// Write a function that returns true if any element in a list satisfies a given predicate.
-	// --> This means true if AT LEAST 1 element satisfies a predicate
+	/** Write a function that returns true if any element in a list satisfies a given predicate.
+			--> This means true if AT LEAST 1 element satisfies a predicate **/
 	
 	// Iterative
 	def anyPassI[T](list: List[T], predicate: T => Boolean): Boolean = {
@@ -275,7 +287,9 @@ object listSession {
 	anyPassFilter(List(1, 3, 5, 7, 9, 11), isEven _)
 	
 	/********** #10 **********/
-
+	/** Write a function that returns true if a given list of
+			integers is sorted (in ascending order). **/
+			
 	def isSorted(vals: List[Int]) =
 		if (vals == vals.sorted) true else false
 	
@@ -283,5 +297,36 @@ object listSession {
 	isSorted(List(7, 1, 3, 22, 5))
 	
 	/********** #13 **********/
+	/** Streams
+	A) An infinitely long stream of 1's
+	B) The stream of all non-negative integers
+	C) The stream of all non-negative even integers
+	D) The stream of all squares of integers
+	**/
 	
+	// A) Infinitely long stream of 1's
+	def makeOnes(n: Int): Stream[Int] = 1 #:: makeOnes(1)
+	
+	// Testing the first 10 elements
+	makeOnes(0).take(10).foreach(println _)
+	
+	// B) Stream of all non-negative integers
+	def nonNeg(n: Int): Stream[Int] = n #:: nonNeg(n + 1)
+	
+	// Testing the first 10 elements
+	nonNeg(0).take(10).foreach(println _)
+	
+	// C) Stream of all non-negative even integers
+	def evenNonNeg(n: Int): Stream[Int] = n #:: evenNonNeg(n + 2)
+	
+	// Testing the first 10 elements
+	evenNonNeg(0).take(10).foreach(println _)
+	
+	def square(x: Int, y: Int): Int = x * y
+	
+	// D) Stream of all squares of integers
+	def squareNums(n: Int): Stream[Int] = math.pow(n, 2).toInt #:: squareNums(n + 1)
+	
+	// Testing the first 10 elements
+	squareNums(0).take(10).foreach(println _)
 }

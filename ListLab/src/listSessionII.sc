@@ -25,28 +25,23 @@ object listSessionII {
                                                   //> res2: List[Double] = List(90.66666666666667, 73.0, 82.66666666666667)
  	avgAvg(List(List(89, 95, 75), List(80, 80, 80)))
                                                   //> res3: List[Double] = List(86.33333333333333, 80.0)
-	
-	// map the avgs. check if avg is above 70. then filter
-	// avgAvg(scores).filter(x => x >= 70); return type List[Double]
-	// doesn't work because it just returns the list of passing exam scores, not the indices
 
- 	def passing(scores: List[List[Double]]): List[Int] = {
- 		def helper(scores: List[List[Double]], index: Int): List[Int] = {
- 			if (scores == Nil) Nil
- 			else if (avg(scores.head) >= 70) index :: helper(scores.tail, index + 1)
- 			else helper(scores.tail, index + 1)
+	def passing(scores: List[List[Double]]): List[Int] = {
+ 		var averages = avgAvg(scores)
+ 		var positions = List[Int]()
+ 		for (i <- 0 until averages.size) {
+ 			if (averages(i) >= 70) positions = positions :+ i
  		}
- 		helper(scores, 0)
+ 		positions
  	}                                         //> passing: (scores: List[List[Double]])List[Int]
  	
  	passing(List(List(90, 90, 90), List(60, 45, 75), List(80, 90, 100), List(60, 95, 90)))
                                                   //> res4: List[Int] = List(0, 2, 3)
 	passing(List(List(60, 45, 75), List(80, 90, 100)))
                                                   //> res5: List[Int] = List(1)
-  //list of positions in the list with avg >= 70
 
 	def sumSums(scores: List[List[Double]]): Double = {
-	/* iterative
+		/* iterative
 		var sum = 0.0
 		for (score <- scores) {
 			sum = sum + score.reduce(add)
@@ -90,21 +85,28 @@ object listSessionII {
                                                   //> res9: List[String] = List(eenie, miney)
 	
 	/********** #4 **********/
+	// Monomials and Polynomials
+	// mono._1 = coefficient, mono._2 = exponent
+	// coefficient(x)^exponent <- a monomial
+	// coefficient(x)^exponent + coefficient(x)^exponent + ... <- a polynomial
 	
-	val list = List((3.0, 2.0), (-5.0, 0.0))  //> list  : List[(Double, Double)] = List((3.0,2.0), (-5.0,0.0))
-	
-	// tuple --> use mono._1 to get first double, mono._2 to get second double
 	def evalMono(mono: (Double, Double), x: Double): Double = {
-	0.0
+		mono._1 * math.pow(x, mono._2)
 	}                                         //> evalMono: (mono: (Double, Double), x: Double)Double
 	
-	evalMono((3.0, 2.0), 5.0)                 //> res10: Double = 0.0
+	// 3(5)^2 = 75
+	evalMono((3.0, 2.0), 5.0)                 //> res10: Double = 75.0
 	
-	//result of substituting x in mono
-
 	def evalPoly(poly: List[(Double, Double)], x: Double): Double = {
-	0.0
+		var sum = 0.0
+		for (monomial <- poly) {
+			sum = sum + evalMono(monomial, x)
+		}
+		sum
 	}                                         //> evalPoly: (poly: List[(Double, Double)], x: Double)Double
-	// result of substituting x in poly
+
+	// 5(5)^2 + 3(5)^1 = 125 + 15 = 140
+	evalPoly(List((5.0, 2.0), (3.0, 1.0)), 5.0)
+                                                  //> res11: Double = 140.0
 	
 }
