@@ -11165,3 +11165,85 @@ Standard error:
 2018-03-09 16:08:58,847  WARN [Worker-7] - ScalaProject - Project ListLab runs on platform default installation.
 2018-03-09 16:09:04,370  WARN [Worker-13] - ScalaProject - Project ListLab has platform default sourceLevel.
 2018-03-09 16:09:04,370  WARN [Worker-13] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 16:17:03,506  WARN [Worker-5] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 16:17:03,506  WARN [Worker-5] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 16:17:04,302  WARN [Worker-14] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 16:17:04,302  WARN [Worker-14] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 16:17:05,165  WARN [Worker-9] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 16:17:05,165  WARN [Worker-9] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 16:17:37,873 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-09 16:17:37,873 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-09 16:17:37,873 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-09 16:18:14,874  WARN [Worker-6] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 16:18:14,874  WARN [Worker-6] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 16:19:28,380 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-09 16:19:28,380 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-09 16:19:28,380 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-09 16:19:59,675  WARN [Worker-7] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 16:19:59,675  WARN [Worker-7] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 16:20:00,403  WARN [Worker-9] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 16:20:00,404  WARN [Worker-9] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 16:20:01,098  WARN [Worker-14] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 16:20:01,098  WARN [Worker-14] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 16:23:11,382 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-09 16:23:11,383 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-09 16:23:11,383 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-09 16:23:13,459  WARN [Worker-14] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 16:23:13,459  WARN [Worker-14] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 16:23:13,865 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-09 16:23:13,866 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-09 16:23:13,866 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-09 16:23:14,203  WARN [Worker-9] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 16:23:14,203  WARN [Worker-9] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 16:23:14,905  WARN [Worker-7] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 16:23:14,905  WARN [Worker-7] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 16:25:14,073  WARN [Worker-11] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 16:25:14,073  WARN [Worker-11] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 16:25:14,733  WARN [Worker-5] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 16:25:14,733  WARN [Worker-5] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 16:25:16,440  WARN [Worker-0] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 16:25:16,440  WARN [Worker-0] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 16:25:33,367  WARN [Worker-9] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 16:25:33,367  WARN [Worker-9] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 16:25:34,048  WARN [Worker-0] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 16:25:34,048  WARN [Worker-0] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 16:37:24,475  WARN [Worker-13] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 16:37:24,475  WARN [Worker-13] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 16:37:26,104  WARN [Worker-14] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 16:37:26,104  WARN [Worker-14] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 18:59:30,544  WARN [Worker-20] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 18:59:30,544  WARN [Worker-20] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 18:59:31,231  WARN [Worker-21] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 18:59:31,231  WARN [Worker-21] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 19:16:31,133  WARN [Worker-7] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 19:16:31,135  WARN [Worker-7] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 19:16:31,908  WARN [Worker-19] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 19:16:31,908  WARN [Worker-19] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 19:16:32,791  WARN [Worker-24] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 19:16:32,791  WARN [Worker-24] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 19:16:57,377  WARN [Worker-25] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 19:16:57,377  WARN [Worker-25] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 19:16:58,202  WARN [Worker-21] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 19:16:58,202  WARN [Worker-21] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 19:16:58,946  WARN [Worker-21] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 19:16:58,946  WARN [Worker-21] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 19:18:00,956  WARN [Worker-19] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 19:18:00,956  WARN [Worker-19] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 19:18:01,700  WARN [Worker-25] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 19:18:01,700  WARN [Worker-25] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 19:18:03,343  WARN [Worker-24] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 19:18:03,343  WARN [Worker-24] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 19:20:50,196  WARN [Worker-20] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 19:20:50,196  WARN [Worker-20] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 19:20:50,989  WARN [Worker-15] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 19:20:50,989  WARN [Worker-15] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 19:20:52,740  WARN [Worker-7] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 19:20:52,740  WARN [Worker-7] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 19:22:02,733  WARN [Worker-25] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 19:22:02,733  WARN [Worker-25] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 19:22:08,765  WARN [Worker-19] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 19:22:08,765  WARN [Worker-19] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 19:22:12,380  WARN [Worker-15] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 19:22:12,380  WARN [Worker-15] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-09 19:22:14,217  WARN [Worker-20] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-09 19:22:14,217  WARN [Worker-20] - ScalaProject - Project ListLab runs on platform default installation.
