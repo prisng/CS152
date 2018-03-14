@@ -15,27 +15,23 @@ class Time (val hour: Int, val minute: Int = 0) {
    * Prints the time in hh:mm format
    */
   override def toString = {
-    if (minute == 0) hour.toString + ":" + "00"
+    if (minute < 10) hour.toString + ":0" + minute.toString
     else hour.toString + ":" + minute.toString
   }
   
   /** 
-   *  Computes minutes since midnight
+   *  Check if this time is less than that time.
    */
   def before(t: Time): Boolean = {
-    if (this.hour < t.hour) {
-      true
+    t match {
+      case hour if (this.hour < t.hour) => true
+      case hourMin if (this.hour == t.hour) => if (this.minute < t.minute) true else false
+      case _ => false
     }
-    if (this.hour == t.hour) {
-      if (this.minute < t.minute) {
-        true
-      }
-    }
-    false
   }
   
   /**
-   * 00:00 is midnight
+   * Computes minutes since midnight (00:00 is midnight)
    * Example: 03:45 --> 180 + 45 minutes = 225 minutes since midnight
    */
   def minutesSinceMidNight(): Int = {
