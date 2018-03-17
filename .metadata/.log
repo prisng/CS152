@@ -10259,3 +10259,6 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/prisn
 
 !ENTRY org.eclipse.core.net 1 0 2018-03-16 18:28:32.696
 !MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.scala-ide.sdt.core 1 0 2018-03-16 19:28:25.102
+!MESSAGE Timeout while resolving hyperlink in /Users/prisng/Documents/SJSU/Spring 2018/CS 152/Assignments/OOPLab/src/weather/ThermAdapter.scala at: offset: 79, length: 0

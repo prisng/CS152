@@ -964,3 +964,175 @@ java.lang.NullPointerException
 2018-03-16 18:32:14,575  WARN [Worker-4] - ScalaProject - Project OOPLab runs on platform default installation.
 2018-03-16 18:32:15,996  WARN [Worker-0] - ScalaProject - Project OOPLab has platform default sourceLevel.
 2018-03-16 18:32:15,996  WARN [Worker-0] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 18:46:55,700  WARN [Worker-0] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 18:46:55,700  WARN [Worker-0] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 18:50:33,858  WARN [Worker-3] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 18:50:33,858  WARN [Worker-3] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 18:50:34,379  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 18:50:34,379  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 18:50:42,502  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 18:50:42,502  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 18:50:42,693  WARN [Worker-0] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 18:50:42,693  WARN [Worker-0] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 18:50:59,693  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 18:50:59,693  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 18:50:59,864  WARN [Worker-8] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 18:50:59,864  WARN [Worker-8] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 18:51:12,686  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 18:51:12,686  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 18:51:12,802  WARN [Worker-10] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 18:51:12,802  WARN [Worker-10] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 18:52:29,348  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 18:52:29,348  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 18:52:32,409  WARN [Worker-0] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 18:52:32,409  WARN [Worker-0] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 18:53:03,569  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 18:53:03,569  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 18:53:03,723  WARN [Worker-7] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 18:53:03,723  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 18:55:54,590  WARN [Worker-3] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 18:55:54,590  WARN [Worker-3] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 18:55:59,467  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 18:55:59,467  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:00:24,493  WARN [Worker-7] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:00:24,493  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:00:47,482  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:00:47,483  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:01:11,778  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:01:11,778  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:01:19,619  WARN [Worker-8] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:01:19,619  WARN [Worker-8] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:01:26,679  WARN [Worker-11] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:01:26,679  WARN [Worker-11] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:07:56,800  WARN [Worker-0] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:07:56,802  WARN [Worker-0] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:10:21,319  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-03-16 19:10:21,320  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-03-16 19:11:21,208  WARN [Worker-8] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:11:21,208  WARN [Worker-8] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:12:30,365  WARN [Worker-8] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:12:30,365  WARN [Worker-8] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:13:06,090  WARN [Worker-0] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:13:06,090  WARN [Worker-0] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:13:08,424 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-16 19:13:08,427 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-16 19:13:08,427 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-16 19:13:08,427 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-16 19:13:10,131  WARN [Worker-0] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:13:10,131  WARN [Worker-0] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:13:23,489  WARN [Worker-6] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:13:23,489  WARN [Worker-6] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:19:04,395  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:19:04,395  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:20:17,329  WARN [Worker-10] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:20:17,329  WARN [Worker-10] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:20:31,556  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:20:31,556  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:21:35,040  WARN [Worker-11] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:21:35,040  WARN [Worker-11] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:25:10,707  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-16 19:25:10,708  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-16 19:26:42,416  WARN [Worker-8] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:26:42,416  WARN [Worker-8] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:27:55,634  WARN [Worker-8] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:27:55,634  WARN [Worker-8] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:28:24,476  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:28:24,476  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:30:11,247  WARN [Worker-6] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:30:11,247  WARN [Worker-6] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:30:16,877  WARN [Worker-8] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:30:16,877  WARN [Worker-8] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:30:20,355  WARN [Worker-3] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:30:20,355  WARN [Worker-3] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:30:29,402  WARN [Worker-3] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:30:29,402  WARN [Worker-3] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:30:34,957  WARN [Worker-6] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:30:34,958  WARN [Worker-6] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:31:27,495  WARN [Worker-6] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:31:27,496  WARN [Worker-6] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:32:04,674  WARN [Worker-6] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:32:04,674  WARN [Worker-6] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:32:58,422  WARN [Worker-7] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:32:58,422  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:33:03,329  WARN [Worker-11] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:33:03,330  WARN [Worker-11] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:33:30,621  WARN [Worker-10] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:33:30,621  WARN [Worker-10] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:34:52,172  WARN [Worker-11] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:34:52,172  WARN [Worker-11] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:35:19,938  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:35:19,938  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:35:23,619  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:35:23,619  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:35:42,265  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:35:42,265  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:37:03,212  WARN [Worker-8] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:37:03,213  WARN [Worker-8] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:37:16,347  WARN [Worker-8] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:37:16,348  WARN [Worker-8] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:41:55,066  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:41:55,066  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:42:01,722  WARN [Worker-11] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:42:01,722  WARN [Worker-11] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:42:22,862  WARN [Worker-7] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:42:22,862  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:42:52,128  WARN [Worker-11] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:42:52,128  WARN [Worker-11] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:43:26,355  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:43:26,355  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:43:36,253  WARN [Worker-10] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:43:36,253  WARN [Worker-10] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:44:17,893  WARN [Worker-10] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:44:17,893  WARN [Worker-10] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:44:34,147  WARN [Worker-11] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:44:34,147  WARN [Worker-11] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:45:01,028  WARN [Worker-11] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:45:01,028  WARN [Worker-11] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:45:21,291  WARN [Worker-3] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:45:21,292  WARN [Worker-3] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:46:20,790  WARN [Worker-6] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:46:20,790  WARN [Worker-6] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:46:34,923  WARN [Worker-8] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:46:34,923  WARN [Worker-8] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:48:46,166 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-16 19:48:46,167 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-16 19:48:46,167 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-16 19:48:46,168 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-16 19:48:46,898  WARN [Worker-6] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:48:46,898  WARN [Worker-6] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:49:30,152  WARN [Worker-6] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:49:30,152  WARN [Worker-6] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:49:35,909  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:49:35,909  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:50:14,631  WARN [Worker-11] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:50:14,631  WARN [Worker-11] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:50:17,272  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:50:17,272  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:51:40,240  WARN [Worker-11] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:51:40,242  WARN [Worker-11] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:51:56,237  WARN [Worker-8] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:51:56,237  WARN [Worker-8] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:52:18,688  WARN [Worker-7] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:52:18,688  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:52:26,686  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:52:26,686  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:52:36,958  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:52:36,958  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:52:54,029  WARN [Worker-3] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:52:54,029  WARN [Worker-3] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:54:07,978  WARN [Worker-8] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:54:07,978  WARN [Worker-8] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:55:03,602  WARN [Worker-8] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:55:03,603  WARN [Worker-8] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:55:11,570  WARN [Worker-11] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:55:11,571  WARN [Worker-11] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:55:51,708  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:55:51,708  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:55:57,731  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:55:57,731  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:56:00,031  WARN [Worker-10] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:56:00,031  WARN [Worker-10] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:56:31,134  WARN [Worker-7] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:56:31,134  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 19:56:58,259  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 19:56:58,259  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
