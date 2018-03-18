@@ -1136,3 +1136,1624 @@ java.lang.NullPointerException
 2018-03-16 19:56:31,134  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
 2018-03-16 19:56:58,259  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
 2018-03-16 19:56:58,259  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 21:47:00,167  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 21:47:00,169  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 21:47:00,174  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 21:47:00,174  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 21:47:03,440  WARN [main] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-03-16 21:47:03,440  WARN [main] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-03-16 21:47:03,443  WARN [main] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-03-16 21:47:03,443  WARN [main] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-03-16 21:47:03,446  WARN [main] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-16 21:47:03,446  WARN [main] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-16 21:47:05,044  WARN [Worker-0] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-03-16 21:47:05,045  WARN [Worker-0] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-03-16 21:47:05,102 ERROR [Worker-1] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2018-03-16 21:47:05,103 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.
+2018-03-16 23:52:31,169  WARN [Worker-23] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 23:52:31,169  WARN [Worker-23] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-16 23:52:31,240  WARN [Worker-23] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-16 23:52:31,241  WARN [Worker-23] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:05:00,442  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:05:00,444  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:05:00,451  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:05:00,451  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:05:04,403  WARN [main] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-03-18 15:05:04,403  WARN [main] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-03-18 15:05:04,407  WARN [main] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-03-18 15:05:04,407  WARN [main] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-03-18 15:05:04,410  WARN [main] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-18 15:05:04,410  WARN [main] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-18 15:05:06,631  WARN [Worker-9] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-03-18 15:05:06,632  WARN [Worker-9] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-03-18 15:05:06,731 ERROR [Worker-6] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2018-03-18 15:05:06,732 ERROR [Worker-6] - System.err - log4j:WARN Please initialize the log4j system properly.
+2018-03-18 15:16:29,307  WARN [Worker-9] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:16:29,307  WARN [Worker-9] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:16:29,430  WARN [Worker-9] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:16:29,430  WARN [Worker-9] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:16:32,840  WARN [Worker-9] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-03-18 15:16:32,840  WARN [Worker-9] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-03-18 15:16:32,848  WARN [Worker-9] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-03-18 15:16:32,848  WARN [Worker-9] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-03-18 15:16:57,084  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:16:57,084  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:16:57,219  WARN [Worker-6] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:16:57,219  WARN [Worker-6] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:16:57,973  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2018-03-18 15:17:12,814  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:17:12,814  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:17:13,049  WARN [Worker-4] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:17:13,050  WARN [Worker-4] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:17:24,858  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:17:24,858  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:17:25,026  WARN [Worker-10] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:17:25,026  WARN [Worker-10] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:17:30,749  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:17:30,749  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:17:30,910  WARN [Worker-9] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:17:30,910  WARN [Worker-9] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:17:39,410  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:17:39,410  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:17:39,580  WARN [Worker-5] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:17:39,580  WARN [Worker-5] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:18:06,261  WARN [Worker-9] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:18:06,261  WARN [Worker-9] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:18:09,069  WARN [Worker-5] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:18:09,069  WARN [Worker-5] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:19:00,578  WARN [Worker-9] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:19:00,578  WARN [Worker-9] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:19:41,652  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:19:41,652  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:19:54,281  WARN [Worker-5] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:19:54,281  WARN [Worker-5] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:20:07,036  WARN [Worker-10] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:20:07,036  WARN [Worker-10] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:20:08,163  WARN [Worker-8] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:20:08,163  WARN [Worker-8] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:20:27,136  WARN [Worker-10] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:20:27,137  WARN [Worker-10] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:20:30,092  WARN [Worker-5] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:20:30,092  WARN [Worker-5] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:21:11,920  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:21:11,920  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:21:12,088  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:21:12,088  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:21:22,821  WARN [Worker-3] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:21:22,821  WARN [Worker-3] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:21:37,249  WARN [Worker-9] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:21:37,250  WARN [Worker-9] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:22:01,556  WARN [Worker-4] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:22:01,556  WARN [Worker-4] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:22:18,133  WARN [Worker-7] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:22:18,133  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:22:25,199  WARN [Worker-5] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:22:25,199  WARN [Worker-5] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:22:26,055 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/gladiator/bee.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2018-03-18 15:22:26,104 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/gladiator/bee.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - Exception in thread "Text Viewer Hover Presenter"
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/gladiator/bee.sc' does not exist.
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.getOrElse(Option.scala:121)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.$anonfun$withSourceFile$1(InteractiveCompilationUnit.scala:201)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.$anonfun$internal$5(PresentationCompilerProxy.scala:101)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.flatMap(Option.scala:171)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile(InteractiveCompilationUnit.scala:201)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile$(InteractiveCompilationUnit.scala:200)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.withSourceFile(ScriptCompilationUnit.scala:26)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.$anonfun$parsedDocComment$1(ScalaDoc.scala:48)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.parsedDocComment(ScalaDoc.scala:48)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.Scaladoc.parsedDocComment$(ScalaDoc.scala:45)
+2018-03-18 15:22:26,610 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.parsedDocComment(ScalaPresentationCompiler.scala:54)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$25(ScalaHoverImpl.scala:227)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option$WithFilter.flatMap(Option.scala:171)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.docComment$lzycompute$1(ScalaHoverImpl.scala:226)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.docComment$1(ScalaHoverImpl.scala:205)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$2(ScalaHoverImpl.scala:238)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.$anonfun$withSourceFile$1(InteractiveCompilationUnit.scala:201)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.$anonfun$internal$5(PresentationCompilerProxy.scala:101)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.flatMap(Option.scala:171)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile(InteractiveCompilationUnit.scala:201)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.withSourceFile$(InteractiveCompilationUnit.scala:200)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:71)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.$anonfun$getHoverInfo2$1(ScalaHoverImpl.scala:103)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.getHoverInfo2(ScalaHoverImpl.scala:101)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.super$getHoverInfo2(TextHoverFactory.scala:53)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.$anonfun$getHoverInfo2$6(TextHoverFactory.scala:53)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.getOrElse(Option.scala:121)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.$anonfun$getHoverInfo2$1(TextHoverFactory.scala:51)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at scala.Option.map(Option.scala:146)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.getHoverInfo2(TextHoverFactory.scala:37)
+2018-03-18 15:22:26,611 ERROR [Text Viewer Hover Presenter] - System.err - at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:166)
+2018-03-18 15:22:26,970 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/gladiator/bee.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2018-03-18 15:22:26,974 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/gladiator/bee.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2018-03-18 15:22:27,002 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/gladiator/bee.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2018-03-18 15:22:27,003 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/gladiator/bee.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2018-03-18 15:22:27,003 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/gladiator/bee.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2018-03-18 15:22:27,008 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/gladiator/bee.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2018-03-18 15:22:54,766 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/gladiator/bee.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2018-03-18 15:22:55,560 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/gladiator/bee.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:507)
+	at scala.tools.nsc.interactive.Global.signalDone(Global.scala:348)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5611)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedType(Typers.scala:5712)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedType(Typers.scala:5715)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTypeDefImpl(Typers.scala:2345)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedTypeDef$2(Typers.scala:2326)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typerWithLocalContext$1(Typers.scala:487)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTypeDef(Typers.scala:487)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5504)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDocDef(Typers.scala:149)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.scala$tools$nsc$doc$ScaladocAnalyzer$ScaladocTyper$$super$typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef(ScaladocAnalyzer.scala:52)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef$(ScaladocAnalyzer.scala:31)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5528)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInAnyMode$1(Typers.scala:5546)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5553)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5650)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:3075)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1983)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1854)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5503)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDocDef(Typers.scala:149)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.scala$tools$nsc$doc$ScaladocAnalyzer$ScaladocTyper$$super$typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef(ScaladocAnalyzer.scala:52)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef$(ScaladocAnalyzer.scala:31)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5528)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInAnyMode$1(Typers.scala:5546)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5553)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5650)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:3075)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5202)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5505)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5646)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$$anon$3.apply(Analyzer.scala:102)
+	at scala.tools.nsc.Global$GlobalPhase.$anonfun$applyPhase$1(Global.scala:426)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:419)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1327)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1327)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1320)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:657)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$7(Global.scala:572)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$6(Global.scala:568)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$6$adapted(Global.scala:568)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:789)
+	at scala.collection.immutable.List.foreach(List.scala:389)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:788)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:568)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2018-03-18 15:22:55,563 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/gladiator/bee.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:507)
+	at scala.tools.nsc.interactive.Global.signalDone(Global.scala:348)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5611)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedType(Typers.scala:5712)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedHigherKindedType(Typers.scala:5719)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typed1$70(Typers.scala:5145)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedAppliedTypeTree$1(Typers.scala:5134)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTypTree$1(Typers.scala:5489)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5551)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedType(Typers.scala:5712)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedType(Typers.scala:5715)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTypeDefImpl(Typers.scala:2345)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedTypeDef$2(Typers.scala:2326)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typerWithLocalContext$1(Typers.scala:487)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTypeDef(Typers.scala:487)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5504)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDocDef(Typers.scala:149)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.scala$tools$nsc$doc$ScaladocAnalyzer$ScaladocTyper$$super$typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef(ScaladocAnalyzer.scala:52)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef$(ScaladocAnalyzer.scala:31)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5528)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInAnyMode$1(Typers.scala:5546)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5553)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5650)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:3075)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1983)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1854)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5503)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDocDef(Typers.scala:149)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.scala$tools$nsc$doc$ScaladocAnalyzer$ScaladocTyper$$super$typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef(ScaladocAnalyzer.scala:52)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef$(ScaladocAnalyzer.scala:31)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5528)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInAnyMode$1(Typers.scala:5546)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5553)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5650)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:3075)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5202)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5505)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5646)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$$anon$3.apply(Analyzer.scala:102)
+	at scala.tools.nsc.Global$GlobalPhase.$anonfun$applyPhase$1(Global.scala:426)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:419)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1327)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1327)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1320)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:657)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$7(Global.scala:572)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$6(Global.scala:568)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$6$adapted(Global.scala:568)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:789)
+	at scala.collection.immutable.List.foreach(List.scala:389)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:788)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:568)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2018-03-18 15:22:55,565 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/gladiator/bee.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:507)
+	at scala.tools.nsc.interactive.Global.signalDone(Global.scala:348)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5611)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDocDef(Typers.scala:149)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.scala$tools$nsc$doc$ScaladocAnalyzer$ScaladocTyper$$super$typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef(ScaladocAnalyzer.scala:52)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef$(ScaladocAnalyzer.scala:31)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5528)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInAnyMode$1(Typers.scala:5546)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5553)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5650)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:3075)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1983)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1854)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5503)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDocDef(Typers.scala:149)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.scala$tools$nsc$doc$ScaladocAnalyzer$ScaladocTyper$$super$typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef(ScaladocAnalyzer.scala:52)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef$(ScaladocAnalyzer.scala:31)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5528)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInAnyMode$1(Typers.scala:5546)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5553)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5650)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:3075)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5202)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5505)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5646)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$$anon$3.apply(Analyzer.scala:102)
+	at scala.tools.nsc.Global$GlobalPhase.$anonfun$applyPhase$1(Global.scala:426)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:419)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1327)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1327)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1320)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:657)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$7(Global.scala:572)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$6(Global.scala:568)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$6$adapted(Global.scala:568)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:789)
+	at scala.collection.immutable.List.foreach(List.scala:389)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:788)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:568)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2018-03-18 15:22:55,567 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/gladiator/bee.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:507)
+	at scala.tools.nsc.interactive.Global.signalDone(Global.scala:348)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5611)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedType(Typers.scala:5712)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedType(Typers.scala:5715)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTypeDefImpl(Typers.scala:2345)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedTypeDef$2(Typers.scala:2326)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTypeDef(Typers.scala:487)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedTypeDefImpl$1(Typers.scala:2333)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTypeDefImpl(Typers.scala:2333)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedTypeDef$2(Typers.scala:2326)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typerWithLocalContext$1(Typers.scala:487)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTypeDef(Typers.scala:487)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5504)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5650)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:3075)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1983)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1854)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5503)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDocDef(Typers.scala:149)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.scala$tools$nsc$doc$ScaladocAnalyzer$ScaladocTyper$$super$typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef(ScaladocAnalyzer.scala:52)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef$(ScaladocAnalyzer.scala:31)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5528)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInAnyMode$1(Typers.scala:5546)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5553)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5650)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:3075)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5202)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5505)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5646)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$$anon$3.apply(Analyzer.scala:102)
+	at scala.tools.nsc.Global$GlobalPhase.$anonfun$applyPhase$1(Global.scala:426)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:419)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1327)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1327)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1320)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:657)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$7(Global.scala:572)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$6(Global.scala:568)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$6$adapted(Global.scala:568)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:789)
+	at scala.collection.immutable.List.foreach(List.scala:389)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:788)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:568)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2018-03-18 15:22:55,569 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/gladiator/bee.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:507)
+	at scala.tools.nsc.interactive.Global.signalDone(Global.scala:348)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5611)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedType(Typers.scala:5712)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedHigherKindedType(Typers.scala:5719)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typed1$70(Typers.scala:5145)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedAppliedTypeTree$1(Typers.scala:5134)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTypTree$1(Typers.scala:5489)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5551)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedType(Typers.scala:5712)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedType(Typers.scala:5715)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTypeDefImpl(Typers.scala:2345)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedTypeDef$2(Typers.scala:2326)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typerWithLocalContext$1(Typers.scala:487)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTypeDef(Typers.scala:487)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5504)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5650)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:3075)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1983)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1854)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5503)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDocDef(Typers.scala:149)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.scala$tools$nsc$doc$ScaladocAnalyzer$ScaladocTyper$$super$typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef(ScaladocAnalyzer.scala:52)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef$(ScaladocAnalyzer.scala:31)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5528)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInAnyMode$1(Typers.scala:5546)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5553)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5650)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:3075)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5202)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5505)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5646)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$$anon$3.apply(Analyzer.scala:102)
+	at scala.tools.nsc.Global$GlobalPhase.$anonfun$applyPhase$1(Global.scala:426)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:419)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1327)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1327)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1320)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:657)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$7(Global.scala:572)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$6(Global.scala:568)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$6$adapted(Global.scala:568)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:789)
+	at scala.collection.immutable.List.foreach(List.scala:389)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:788)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:568)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2018-03-18 15:22:55,594 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/gladiator/bee.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:507)
+	at scala.tools.nsc.interactive.Global.signalDone(Global.scala:348)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5611)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedQualifier(Typers.scala:5670)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedQualifier(Typers.scala:5676)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedSelectOrSuperCall$1(Typers.scala:4999)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInAnyMode$1(Typers.scala:5537)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5553)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5664)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedAnnotation(Typers.scala:3764)
+	at scala.tools.nsc.typechecker.Namers$Namer.$anonfun$annotSig$4(Namers.scala:1769)
+	at scala.tools.nsc.typechecker.Namers$Namer.$anonfun$annotSig$3(Namers.scala:1769)
+	at scala.reflect.internal.AnnotationInfos$LazyAnnotationInfo.forcedInfo$lzycompute(AnnotationInfos.scala:217)
+	at scala.reflect.internal.AnnotationInfos$LazyAnnotationInfo.forcedInfo(AnnotationInfos.scala:217)
+	at scala.reflect.internal.AnnotationInfos$LazyAnnotationInfo.completeInfo(AnnotationInfos.scala:230)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedTypeDefImpl$2(Typers.scala:2335)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTypeDefImpl(Typers.scala:2335)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedTypeDef$2(Typers.scala:2326)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typerWithLocalContext$1(Typers.scala:487)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTypeDef(Typers.scala:487)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5504)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5650)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:3075)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1983)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1854)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5503)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDocDef(Typers.scala:149)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.scala$tools$nsc$doc$ScaladocAnalyzer$ScaladocTyper$$super$typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef(ScaladocAnalyzer.scala:52)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef$(ScaladocAnalyzer.scala:31)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5528)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInAnyMode$1(Typers.scala:5546)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5553)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5650)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:3075)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5202)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5505)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5646)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$$anon$3.apply(Analyzer.scala:102)
+	at scala.tools.nsc.Global$GlobalPhase.$anonfun$applyPhase$1(Global.scala:426)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:419)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1327)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1327)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1320)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:657)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$7(Global.scala:572)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$6(Global.scala:568)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$6$adapted(Global.scala:568)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:789)
+	at scala.collection.immutable.List.foreach(List.scala:389)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:788)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:568)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2018-03-18 15:22:55,595 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/gladiator/bee.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:507)
+	at scala.tools.nsc.interactive.Global.signalDone(Global.scala:348)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5611)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedType(Typers.scala:5712)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedType(Typers.scala:5715)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedValDefImpl(Typers.scala:2034)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedValDef(Typers.scala:2020)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5500)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5650)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:3075)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1983)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1854)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5503)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDocDef(Typers.scala:149)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.scala$tools$nsc$doc$ScaladocAnalyzer$ScaladocTyper$$super$typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef(ScaladocAnalyzer.scala:52)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef$(ScaladocAnalyzer.scala:31)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5528)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInAnyMode$1(Typers.scala:5546)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5553)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5650)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:3075)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5202)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5505)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5646)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$$anon$3.apply(Analyzer.scala:102)
+	at scala.tools.nsc.Global$GlobalPhase.$anonfun$applyPhase$1(Global.scala:426)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:419)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1327)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1327)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1320)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:657)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$7(Global.scala:572)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$6(Global.scala:568)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$6$adapted(Global.scala:568)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:789)
+	at scala.collection.immutable.List.foreach(List.scala:389)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:788)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:568)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2018-03-18 15:22:55,596 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/gladiator/bee.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:507)
+	at scala.tools.nsc.interactive.Global.signalDone(Global.scala:348)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5611)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedType(Typers.scala:5712)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedType(Typers.scala:5715)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTypeDefImpl(Typers.scala:2345)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedTypeDef$2(Typers.scala:2326)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTypeDef(Typers.scala:487)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedDefDef$4(Typers.scala:2255)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:2255)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5501)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5650)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:3075)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1983)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1854)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5503)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDocDef(Typers.scala:149)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.scala$tools$nsc$doc$ScaladocAnalyzer$ScaladocTyper$$super$typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef(ScaladocAnalyzer.scala:52)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef$(ScaladocAnalyzer.scala:31)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5528)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInAnyMode$1(Typers.scala:5546)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5553)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5650)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:3075)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5202)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5505)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5646)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$$anon$3.apply(Analyzer.scala:102)
+	at scala.tools.nsc.Global$GlobalPhase.$anonfun$applyPhase$1(Global.scala:426)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:419)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1327)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1327)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1320)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:657)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$7(Global.scala:572)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$6(Global.scala:568)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$6$adapted(Global.scala:568)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:789)
+	at scala.collection.immutable.List.foreach(List.scala:389)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:788)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:568)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2018-03-18 15:22:55,597 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/gladiator/bee.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:507)
+	at scala.tools.nsc.interactive.Global.signalDone(Global.scala:348)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5611)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedType(Typers.scala:5712)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedType(Typers.scala:5715)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDefDef(Typers.scala:2266)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5501)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5650)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:3075)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedTemplate(Typers.scala:1983)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedModuleDef(Typers.scala:1854)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5503)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedDocDef(Typers.scala:149)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.scala$tools$nsc$doc$ScaladocAnalyzer$ScaladocTyper$$super$typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef(ScaladocAnalyzer.scala:52)
+	at scala.tools.nsc.doc.ScaladocAnalyzer$ScaladocTyper.typedDocDef$(ScaladocAnalyzer.scala:31)
+	at org.scalaide.core.internal.compiler.InteractiveScaladocAnalyzer$$anon$1.typedDocDef(ScaladocGlobalCompatibilityTrait.scala:10)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedOutsidePatternMode$1(Typers.scala:5528)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInAnyMode$1(Typers.scala:5546)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5553)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedByValueExpr(Typers.scala:5650)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStat$1(Typers.scala:3075)
+	at scala.tools.nsc.typechecker.Typers$Typer.$anonfun$typedStats$10(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedStats(Typers.scala:3220)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5202)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5505)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5552)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5589)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedInternal(Typers.scala:5619)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5563)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5567)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5646)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$$anon$3.apply(Analyzer.scala:102)
+	at scala.tools.nsc.Global$GlobalPhase.$anonfun$applyPhase$1(Global.scala:426)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:419)
+	at scala.tools.nsc.interactive.Global$TyperRun.$anonfun$applyPhase$1(Global.scala:1327)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1327)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1320)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:657)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$7(Global.scala:572)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$6(Global.scala:568)
+	at scala.tools.nsc.interactive.Global.$anonfun$backgroundCompile$6$adapted(Global.scala:568)
+	at scala.collection.TraversableLike$WithFilter.$anonfun$foreach$1(TraversableLike.scala:789)
+	at scala.collection.immutable.List.foreach(List.scala:389)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:788)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:568)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2018-03-18 15:23:51,211  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:23:51,212  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:23:51,218  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:23:51,218  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:23:54,239  WARN [main] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-03-18 15:23:54,239  WARN [main] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-03-18 15:23:54,242  WARN [main] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-03-18 15:23:54,242  WARN [main] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-03-18 15:23:54,246  WARN [main] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-18 15:23:54,246  WARN [main] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-18 15:23:56,005  WARN [Worker-23] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-03-18 15:23:56,006  WARN [Worker-23] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-03-18 15:23:56,217 ERROR [Worker-6] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2018-03-18 15:23:56,217 ERROR [Worker-6] - System.err - log4j:WARN Please initialize the log4j system properly.
+2018-03-18 15:25:22,580  WARN [Worker-21] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:25:22,580  WARN [Worker-21] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:25:22,632  WARN [Worker-21] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:25:22,632  WARN [Worker-21] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:25:31,360  WARN [Worker-0] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:25:31,360  WARN [Worker-0] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:25:41,078  WARN [Worker-7] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:25:41,078  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:25:53,301  WARN [Worker-10] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:25:53,301  WARN [Worker-10] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:25:58,260  WARN [Worker-23] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:25:58,260  WARN [Worker-23] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:26:03,842  WARN [Worker-6] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:26:03,842  WARN [Worker-6] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:26:08,446  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:26:08,446  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:26:11,526  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:26:11,526  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:26:18,756  WARN [Worker-13] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:26:18,756  WARN [Worker-13] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:26:35,967  WARN [Worker-5] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:26:35,967  WARN [Worker-5] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:26:51,978  WARN [Worker-15] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:26:51,978  WARN [Worker-15] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:26:53,633  WARN [Worker-4] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:26:53,634  WARN [Worker-4] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:27:02,351  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:27:02,351  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:27:10,644  WARN [Worker-15] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:27:10,644  WARN [Worker-15] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:27:58,271  WARN [Worker-17] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:27:58,271  WARN [Worker-17] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:28:09,805  WARN [Worker-7] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:28:09,805  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:29:38,889  WARN [Worker-22] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:29:38,889  WARN [Worker-22] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:30:08,676  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:30:08,676  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:30:18,798  WARN [Worker-3] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:30:18,798  WARN [Worker-3] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:30:41,449  WARN [Worker-3] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:30:41,449  WARN [Worker-3] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:30:58,648  WARN [Worker-0] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:30:58,648  WARN [Worker-0] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:31:26,521  WARN [Worker-9] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:31:26,521  WARN [Worker-9] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:31:27,930 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-18 15:31:28,142  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:31:28,142  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:31:44,706  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-03-18 15:31:44,706  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-03-18 15:31:52,148  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2018-03-18 15:33:20,387 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-18 15:33:20,388 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-18 15:33:20,388 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-18 15:33:32,041  WARN [Worker-21] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:33:32,041  WARN [Worker-21] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:33:35,739  WARN [Worker-13] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:33:35,739  WARN [Worker-13] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:33:44,223  WARN [Worker-23] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:33:44,223  WARN [Worker-23] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:33:45,230  WARN [Worker-6] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:33:45,230  WARN [Worker-6] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:35:34,213  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:35:34,214  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:35:34,615  WARN [Java indexing] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:35:34,615  WARN [Java indexing] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:35:35,422  WARN [Worker-16] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:35:35,422  WARN [Worker-16] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:35:43,494  WARN [Worker-15] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:35:43,494  WARN [Worker-15] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:35:48,027  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:35:48,028  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:35:49,685  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2018-03-18 15:35:50,937  WARN [Worker-5] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:35:50,937  WARN [Worker-5] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:36:19,635  WARN [Worker-13] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:36:19,636  WARN [Worker-13] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:37:09,854  WARN [Worker-5] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:37:09,855  WARN [Worker-5] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:37:10,805  WARN [Worker-23] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:37:10,805  WARN [Worker-23] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:37:51,502  WARN [Worker-9] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:37:51,502  WARN [Worker-9] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:39:08,520  WARN [Worker-5] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:39:08,520  WARN [Worker-5] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:39:10,663  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:39:10,663  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:39:23,824  WARN [Worker-3] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:39:23,824  WARN [Worker-3] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:40:01,923  WARN [Worker-13] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:40:01,923  WARN [Worker-13] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:41:12,338  WARN [Worker-15] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:41:12,338  WARN [Worker-15] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:41:13,180  WARN [Worker-7] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:41:13,180  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:41:20,278  WARN [Worker-1] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:41:20,278  WARN [Worker-1] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:41:21,173  WARN [Worker-3] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:41:21,173  WARN [Worker-3] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:41:30,221  WARN [Worker-1] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:41:30,222  WARN [Worker-1] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:41:31,003  WARN [Worker-19] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:41:31,003  WARN [Worker-19] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:41:31,871  WARN [Worker-6] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:41:31,871  WARN [Worker-6] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:42:01,915 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/accumulator/Accumulator2.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2018-03-18 15:42:01,955 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/accumulator/Accumulator2.sc' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+	at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+	at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+	at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+	at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$2(ScalaPresentationCompiler.scala:445)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$mkHyperlink$1(ScalaPresentationCompiler.scala:442)
+	at scala.tools.nsc.util.InterruptReq.execute(InterruptReq.scala:26)
+	at scala.tools.nsc.interactive.Global.$anonfun$pollForWork$1(Global.scala:444)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:418)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2018-03-18 15:42:08,398  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:42:08,398  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:42:09,645  WARN [Worker-1] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:42:09,645  WARN [Worker-1] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:43:15,197  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:43:15,199  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:43:15,204  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:43:15,204  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:43:19,007  WARN [main] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-03-18 15:43:19,007  WARN [main] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-03-18 15:43:19,010  WARN [main] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-03-18 15:43:19,010  WARN [main] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-03-18 15:43:19,013  WARN [main] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-18 15:43:19,013  WARN [main] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-18 15:43:20,787  WARN [Worker-14] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-03-18 15:43:20,787  WARN [Worker-14] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-03-18 15:43:20,918 ERROR [Worker-6] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2018-03-18 15:43:20,919 ERROR [Worker-6] - System.err - log4j:WARN Please initialize the log4j system properly.
+2018-03-18 15:44:02,470  WARN [Worker-16] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:44:02,470  WARN [Worker-16] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:44:02,522  WARN [Worker-16] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:44:02,522  WARN [Worker-16] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:44:03,221  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:44:03,221  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:44:14,337  WARN [Worker-14] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:44:14,337  WARN [Worker-14] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:44:22,407  WARN [Worker-13] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:44:22,407  WARN [Worker-13] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:44:33,406  WARN [Worker-20] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:44:33,407  WARN [Worker-20] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:44:34,725  WARN [Worker-15] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:44:34,725  WARN [Worker-15] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:44:45,216  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:44:45,216  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:44:46,526  WARN [Worker-14] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:44:46,526  WARN [Worker-14] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:44:57,332  WARN [Worker-6] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:44:57,332  WARN [Worker-6] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:44:58,782  WARN [Worker-18] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:44:58,782  WARN [Worker-18] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:45:17,722  WARN [Worker-9] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:45:17,723  WARN [Worker-9] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:45:18,523  WARN [Worker-22] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:45:18,523  WARN [Worker-22] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:46:54,924  WARN [Worker-16] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:46:54,924  WARN [Worker-16] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:46:56,027  WARN [Worker-1] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:46:56,027  WARN [Worker-1] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:46:56,995  WARN [Worker-15] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:46:56,995  WARN [Worker-15] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:47:09,728  WARN [Worker-21] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:47:09,728  WARN [Worker-21] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:47:11,042  WARN [Worker-23] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:47:11,042  WARN [Worker-23] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:48:08,029  WARN [Worker-15] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:48:08,030  WARN [Worker-15] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:48:09,631  WARN [Worker-16] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:48:09,631  WARN [Worker-16] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:48:11,814  WARN [Worker-1] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:48:11,814  WARN [Worker-1] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:48:13,752  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:48:13,752  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:48:39,349  WARN [Worker-17] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:48:39,349  WARN [Worker-17] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:48:40,988  WARN [Worker-7] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:48:40,988  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:48:42,458  WARN [Worker-5] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:48:42,458  WARN [Worker-5] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:48:48,911  WARN [Worker-17] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:48:48,911  WARN [Worker-17] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:48:50,381  WARN [Worker-6] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:48:50,381  WARN [Worker-6] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:48:51,890  WARN [Worker-0] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:48:51,891  WARN [Worker-0] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:49:12,921  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:49:12,921  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:49:14,363  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:49:14,363  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:49:16,445  WARN [Worker-16] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:49:16,445  WARN [Worker-16] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:50:39,033 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-18 15:50:39,033 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-18 15:50:39,033 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-18 15:50:41,953  WARN [Worker-7] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:50:41,953  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:50:42,781  WARN [Worker-23] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:50:42,781  WARN [Worker-23] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:50:58,350  WARN [Worker-21] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:50:58,350  WARN [Worker-21] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:50:59,200  WARN [Worker-16] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:50:59,200  WARN [Worker-16] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:51:10,003  WARN [Worker-5] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:51:10,003  WARN [Worker-5] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:51:11,229  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:51:11,229  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:51:12,169  WARN [Worker-22] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:51:12,169  WARN [Worker-22] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:51:23,239  WARN [Worker-1] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:51:23,239  WARN [Worker-1] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:51:24,126  WARN [Worker-7] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:51:24,126  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:51:39,866  WARN [Worker-6] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:51:39,866  WARN [Worker-6] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:51:40,620  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:51:40,620  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:51:40,658 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - Exception in thread "org.scalaide.ui.internal.reconciliation.ScalaReconciler"
+2018-03-18 15:51:40,660 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - org.eclipse.core.internal.resources.ResourceException: Resource '/OOPLab/src/simple_accumulator/Accumulator.sc' does not exist.
+2018-03-18 15:51:40,660 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+2018-03-18 15:51:40,660 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+2018-03-18 15:51:40,660 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+2018-03-18 15:51:40,660 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.resources.EclipseFile.input(EclipseFile.scala:104)
+2018-03-18 15:51:40,660 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at scala.reflect.io.AbstractFile.toByteArray(AbstractFile.scala:166)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at scala.reflect.io.AbstractFile.toCharArray(AbstractFile.scala:160)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.$anonfun$getContents$2(ScriptCompilationUnit.scala:53)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at scala.Option.getOrElse(Option.scala:121)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.getContents(ScriptCompilationUnit.scala:53)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.worksheet.ScriptCompilationUnit.lastSourceMap(ScriptCompilationUnit.scala:37)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$askReload$3(ScalaPresentationCompiler.scala:276)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at scala.collection.immutable.List.map(List.scala:287)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$askReload$2(ScalaPresentationCompiler.scala:276)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.$anonfun$askReload$2$adapted(ScalaPresentationCompiler.scala:276)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.IScalaPresentationCompiler$.withResponse(IScalaPresentationCompiler.scala:307)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.askReload(ScalaPresentationCompiler.scala:276)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.obtainPc$1(PresentationCompilerProxy.scala:95)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.forceReconcile(InteractiveCompilationUnit.scala:150)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.compiler.InteractiveCompilationUnit.forceReconcile$(InteractiveCompilationUnit.scala:149)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.core.internal.jdt.model.ScalaSourceFile.forceReconcile(ScalaSourceFile.scala:71)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.handleReconciliation(ScalaReconcilingStrategy.scala:54)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.scalaide.ui.internal.reconciliation.ScalaReconcilingStrategy.reconcile(ScalaReconcilingStrategy.scala:39)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:77)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:69)
+2018-03-18 15:51:40,661 ERROR [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - System.err - at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:207)
+2018-03-18 15:51:56,616  WARN [Worker-7] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:51:56,616  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:52:00,530  WARN [Worker-21] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:52:00,530  WARN [Worker-21] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:52:00,691  WARN [bundle-347-ActorSystem-akka.actor.default-dispatcher-15] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:52:00,691  WARN [bundle-347-ActorSystem-akka.actor.default-dispatcher-15] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:52:02,677  WARN [Worker-14] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:52:02,677  WARN [Worker-14] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:52:14,169  WARN [Worker-23] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:52:14,169  WARN [Worker-23] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:52:20,706  WARN [Worker-7] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:52:20,707  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:52:41,746  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:52:41,746  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:52:41,889  WARN [Worker-23] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:52:41,889  WARN [Worker-23] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:52:51,160  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:52:51,160  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:52:58,639  WARN [Worker-14] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:52:58,640  WARN [Worker-14] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:53:10,226  WARN [Worker-10] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:53:10,227  WARN [Worker-10] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:53:14,079  WARN [Worker-13] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:53:14,079  WARN [Worker-13] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:53:14,088 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Error during instrumentation of ScriptCompilationUnit(L/OOPLab/src/accumulator/Accumulator.sc)
+org.scalaide.worksheet.runtime.MissingTopLevelObjectDeclaration: Couldn't find top level object declaration in source Accumulator.sc
+	at org.scalaide.worksheet.runtime.SourceInstrumenter.instrumentProgram(SourceInstrumenter.scala:37)
+	at org.scalaide.worksheet.runtime.SourceInstrumenter.instrument(SourceInstrumenter.scala:24)
+	at org.scalaide.worksheet.runtime.WorksheetRunner$$anonfun$receive$1.applyOrElse(WorksheetRunner.scala:73)
+	at akka.actor.Actor.aroundReceive(Actor.scala:497)
+	at akka.actor.Actor.aroundReceive$(Actor.scala:495)
+	at org.scalaide.worksheet.runtime.WorksheetRunner.aroundReceive(WorksheetRunner.scala:44)
+	at akka.actor.ActorCell.receiveMessage(ActorCell.scala:526)
+	at akka.actor.ActorCell.invoke(ActorCell.scala:495)
+	at akka.dispatch.Mailbox.processMailbox(Mailbox.scala:257)
+	at akka.dispatch.Mailbox.run(Mailbox.scala:224)
+	at akka.dispatch.Mailbox.exec(Mailbox.scala:234)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+2018-03-18 15:53:14,864  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:53:14,864  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:53:16,435  WARN [Worker-7] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:53:16,435  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:53:18,540  WARN [Worker-13] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:53:18,540  WARN [Worker-13] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:53:25,121  WARN [Worker-19] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:53:25,121  WARN [Worker-19] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:53:39,851  WARN [Worker-13] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:53:39,851  WARN [Worker-13] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:53:41,232  WARN [Worker-22] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:53:41,232  WARN [Worker-22] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:53:42,040  WARN [Worker-23] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:53:42,040  WARN [Worker-23] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:53:44,646  WARN [Worker-21] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:53:44,646  WARN [Worker-21] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:53:45,359  WARN [Worker-6] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:53:45,359  WARN [Worker-6] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:53:51,446  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:53:51,447  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:53:52,270  WARN [Worker-13] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:53:52,270  WARN [Worker-13] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:54:03,003  WARN [Worker-19] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:54:03,003  WARN [Worker-19] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:54:03,783  WARN [Worker-8] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:54:03,783  WARN [Worker-8] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:54:04,548  WARN [Worker-15] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:54:04,548  WARN [Worker-15] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:54:12,077  WARN [Worker-1] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:54:12,077  WARN [Worker-1] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:54:20,667  WARN [Worker-7] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:54:20,667  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:54:31,072  WARN [Worker-21] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:54:31,072  WARN [Worker-21] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:54:36,373  WARN [Worker-5] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:54:36,373  WARN [Worker-5] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:54:37,160  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:54:37,160  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:54:47,451  WARN [Worker-15] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:54:47,451  WARN [Worker-15] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:54:55,324  WARN [Worker-0] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:54:55,324  WARN [Worker-0] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:54:55,829 ERROR [Worker-6] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 1
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  Error: Main method not found in class accumulator.Accumulator, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+
+2018-03-18 15:54:58,357  WARN [Worker-16] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:54:58,357  WARN [Worker-16] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:54:58,782 ERROR [Worker-2] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 1
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  Error: Main method not found in class accumulator.Accumulator, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+
+2018-03-18 15:54:59,208  WARN [Worker-14] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:54:59,208  WARN [Worker-14] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:55:11,139  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:55:11,139  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:55:18,494  WARN [Worker-8] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:55:18,495  WARN [Worker-8] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:55:25,769  WARN [Worker-22] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:55:25,769  WARN [Worker-22] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:55:37,282  WARN [Worker-5] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:55:37,283  WARN [Worker-5] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:55:48,663  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:55:48,664  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:55:48,807  WARN [Worker-22] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:55:48,807  WARN [Worker-22] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:56:00,766  WARN [Worker-13] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:56:00,766  WARN [Worker-13] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:56:02,918  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:56:02,918  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:56:08,260  WARN [Worker-1] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:56:08,260  WARN [Worker-1] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:56:10,316  WARN [Worker-13] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:56:10,316  WARN [Worker-13] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:56:25,814  WARN [Worker-21] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:56:25,814  WARN [Worker-21] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 15:56:43,576  WARN [Worker-22] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 15:56:43,577  WARN [Worker-22] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:00:48,410  WARN [Worker-15] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:00:48,410  WARN [Worker-15] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:00:50,802  WARN [Worker-7] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:00:50,803  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:00:59,872  WARN [Worker-23] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:00:59,873  WARN [Worker-23] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:01:07,439  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:01:07,439  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:01:08,374  WARN [Worker-19] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:01:08,374  WARN [Worker-19] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:01:21,046  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:01:21,047  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:01:25,642  WARN [Worker-5] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:01:25,642  WARN [Worker-5] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:01:25,772  WARN [bundle-347-ActorSystem-akka.actor.default-dispatcher-19] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:01:25,772  WARN [bundle-347-ActorSystem-akka.actor.default-dispatcher-19] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:01:27,622  WARN [Worker-22] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:01:27,622  WARN [Worker-22] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:01:35,339  WARN [Worker-0] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:01:35,339  WARN [Worker-0] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:01:36,232  WARN [Worker-10] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:01:36,232  WARN [Worker-10] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:02:04,517  WARN [Worker-13] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:02:04,517  WARN [Worker-13] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:02:05,413  WARN [Worker-0] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:02:05,413  WARN [Worker-0] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:02:58,020  WARN [Worker-5] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:02:58,020  WARN [Worker-5] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:02:58,718  WARN [Worker-7] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:02:58,718  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:03:00,527  WARN [Worker-15] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:03:00,527  WARN [Worker-15] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:03:01,228  WARN [Worker-1] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:03:01,228  WARN [Worker-1] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:03:21,409  WARN [Worker-14] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:03:21,409  WARN [Worker-14] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:03:23,398  WARN [Worker-1] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:03:23,399  WARN [Worker-1] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:03:34,851  WARN [Worker-1] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:03:34,851  WARN [Worker-1] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:03:35,627  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:03:35,627  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:03:44,303  WARN [Worker-19] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:03:44,303  WARN [Worker-19] - ScalaProject - Project OOPLab runs on platform default installation.

@@ -1,8 +1,6 @@
-package accumulator
-
-object Accumulator {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(64); 
+object testtest {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(40); 
 	var register: Int = 0;System.out.println("""register  : Int = """ + $show(register ));$skip(66); 
-	var program = List[Instruction]();System.out.println("""program  : List[accumulator.Instruction] = """ + $show(program ));$skip(152); 		// empty list of instructions
+	var program = List[Instruction]();System.out.println("""program  : List[Instruction] = """ + $show(program ));$skip(152); 		// empty list of instructions
 
 	def run() = {
 		// For each instruction in the program, execute the instruction
@@ -44,11 +42,11 @@ object Mul {
 /** Note: This runs properly on other Scala IDEs, but does not compile in Eclipse **/
 
 // computing ((3 * 5) + 1) * 2
-Accumulator.program = List(Add(3), Mul(5), Add(1), Mul(2))
-Accumulator.run()
-Accumulator.register
+testtest.program = List(Add(3), Mul(5), Add(1), Mul(2))
+testtest.run()
+testtest.register
 // computing (((10 * 2) + 3) * 5)
-Accumulator.register = 0
-Accumulator.program = List(Add(10), Mul(2), Add(3), Mul(5))
-Accumulator.run()
-Accumulator.register
+testtest.register = 0
+testtest.program = List(Add(10), Mul(2), Add(3), Mul(5))
+testtest.run()
+testtest.register

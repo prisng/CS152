@@ -1,10 +1,9 @@
-//package accumulator
 
-object Accumulator {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(66); 
+object Accumulator {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(44); 
 	var register: Int = 0;System.out.println("""register  : Int = """ + $show(register ));$skip(66); 
-	var program = List[Instruction]();System.out.println("""program  : List[Instruction] = """ + $show(program ));$skip(143); 		// empty list of instructions
+	var program = List[Instruction]();System.out.println("""program  : List[Instruction] = """ + $show(program ));$skip(145); 		// empty list of instructions
 
-	def run() {
+	def run() = {
 		// for each instruction in list, execute the instruction
 		for (inst <- program) {
 			register = inst.execute(register)
@@ -43,16 +42,10 @@ object Mul {
     def apply(r: Int) = new Mul(r)
 }
 
-object Main {
-  def main(args: Array[String]) {
-  		Accumulator.program = List(Add(3), Mul(5), Add(1), Mul(2))
-		Accumulator.run()
-  }
-}
 
 /*** Problem 1 ***/
 
-/*
+
 // computing ((3 * 5) + 1) * 2
 Accumulator.program = List(Add(3), Mul(5), Add(1), Mul(2))
 Accumulator.run()
@@ -62,4 +55,3 @@ Accumulator.register = 0
 Accumulator.program = List(Add(10), Mul(2), Add(3), Mul(5))
 Accumulator.run()
 Accumulator.register
-*/

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_zCGRkClzEei-HecpaCz1WQ" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_zCGRkSlzEei-HecpaCz1WQ" bindingContexts="_zCIHeClzEei-HecpaCz1WQ">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;WeatherStation.scala&quot; tooltip=&quot;OOPLab/src/weather/WeatherStation.scala&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/weather/WeatherStation.scala&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;ThermAdapter.scala&quot; tooltip=&quot;OOPLab/src/weather/ThermAdapter.scala&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/weather/ThermAdapter.scala&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;IThermometer.scala&quot; tooltip=&quot;OOPLab/src/weather/IThermometer.scala&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/weather/IThermometer.scala&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;CelciusTherm.scala&quot; tooltip=&quot;OOPLab/src/weather/CelciusTherm.scala&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/weather/CelciusTherm.scala&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.scalaide.worksheet.editors.ScriptEditor&quot; name=&quot;listSessionI.sc&quot; tooltip=&quot;ListLab/src/listSessionI.sc&quot;>&#xA;&lt;persistable path=&quot;/ListLab/src/listSessionI.sc&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.scalaide.worksheet.editors.ScriptEditor&quot; name=&quot;listSessionII.sc&quot; tooltip=&quot;ListLab/src/listSessionII.sc&quot;>&#xA;&lt;persistable path=&quot;/ListLab/src/listSessionII.sc&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.scalaide.worksheet.editors.ScriptEditor&quot; name=&quot;math.sc&quot; tooltip=&quot;ControlLab/src/math.sc&quot;>&#xA;&lt;persistable path=&quot;/ControlLab/src/math.sc&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;TestAcorn.scala&quot; tooltip=&quot;OOPLab/src/acorn/TestAcorn.scala&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/acorn/TestAcorn.scala&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.scalaide.worksheet.editors.ScriptEditor&quot; name=&quot;gladiator.sc&quot; tooltip=&quot;OOPLab/src/gladiator/gladiator.sc&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/gladiator/gladiator.sc&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;Number.scala&quot; tooltip=&quot;OOPLab/src/acorn/Number.scala&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/acorn/Number.scala&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;Product.scala&quot; tooltip=&quot;OOPLab/src/acorn/Product.scala&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/acorn/Product.scala&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;Sum.scala&quot; tooltip=&quot;OOPLab/src/acorn/Sum.scala&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/acorn/Sum.scala&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;Expression.scala&quot; tooltip=&quot;OOPLab/src/acorn/Expression.scala&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/acorn/Expression.scala&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;Queue.scala&quot; tooltip=&quot;OOPLab/src/queue/Queue.scala&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/queue/Queue.scala&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.scalaide.worksheet.editors.ScriptEditor&quot; name=&quot;Dungeon.sc&quot; tooltip=&quot;OOPLab/src/dnd/Dungeon.sc&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/dnd/Dungeon.sc&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;WeatherStation.scala&quot; tooltip=&quot;OOPLab/src/weather/WeatherStation.scala&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/weather/WeatherStation.scala&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;ThermAdapter.scala&quot; tooltip=&quot;OOPLab/src/weather/ThermAdapter.scala&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/weather/ThermAdapter.scala&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;TestTime2.scala&quot; tooltip=&quot;OOPLab/src/time2/TestTime2.scala&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/time2/TestTime2.scala&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;TestTime1.scala&quot; tooltip=&quot;OOPLab/src/time1/TestTime1.scala&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/time1/TestTime1.scala&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;TestAcorn.scala&quot; tooltip=&quot;OOPLab/src/acorn/TestAcorn.scala&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/acorn/TestAcorn.scala&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.scalaide.worksheet.editors.ScriptEditor&quot; name=&quot;testtest.sc&quot; tooltip=&quot;OOPLab/src/testtest.sc&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/testtest.sc&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.scalaide.worksheet.editors.ScriptEditor&quot; name=&quot;Accumulator.sc&quot; tooltip=&quot;OOPLab/src/accumulator/Accumulator.sc&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/accumulator/Accumulator.sc&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;Expression.scala&quot; tooltip=&quot;OOPLab/src/acorn/Expression.scala&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/acorn/Expression.scala&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.scalaide.worksheet.editors.ScriptEditor&quot; name=&quot;Accumulator2.sc&quot; tooltip=&quot;OOPLab/src/accumulator/Accumulator2.sc&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/accumulator/Accumulator2.sc&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;Queue.scala&quot; tooltip=&quot;OOPLab/src/queue/Queue.scala&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/queue/Queue.scala&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;gladiatorTester.scala&quot; tooltip=&quot;OOPLab/src/gladiator/gladiatorTester.scala&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/gladiator/gladiatorTester.scala&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;Gladiator.scala&quot; tooltip=&quot;OOPLab/src/gladiator/Gladiator.scala&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/gladiator/Gladiator.scala&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;CrusherMasher.scala&quot; tooltip=&quot;OOPLab/src/gladiator/CrusherMasher.scala&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/gladiator/CrusherMasher.scala&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.scalaide.worksheet.editors.ScriptEditor&quot; name=&quot;bee.sc&quot; tooltip=&quot;OOPLab/src/gladiator/bee.sc&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/gladiator/bee.sc&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;Crusher.scala&quot; tooltip=&quot;OOPLab/src/gladiator/Crusher.scala&quot;>&#xA;&lt;persistable path=&quot;/OOPLab/src/gladiator/Crusher.scala&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_zCGRkSlzEei-HecpaCz1WQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.ui.workbench" selectedElement="_zCGRkilzEei-HecpaCz1WQ" x="235" y="57" width="1016" height="768">
@@ -48,14 +48,14 @@
               <children xsi:type="advanced:Placeholder" xmi:id="_zCG4oilzEei-HecpaCz1WQ" elementId="org.eclipse.jdt.ui.PackageExplorer" ref="_zCHgIClzEei-HecpaCz1WQ"/>
             </children>
             <children xsi:type="basic:PartSashContainer" xmi:id="_zCG4oylzEei-HecpaCz1WQ" containerData="7500" selectedElement="_zCG4pClzEei-HecpaCz1WQ">
-              <children xsi:type="basic:PartSashContainer" xmi:id="_zCG4pClzEei-HecpaCz1WQ" containerData="7500" selectedElement="_zCG4pSlzEei-HecpaCz1WQ" horizontal="true">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_zCG4pClzEei-HecpaCz1WQ" containerData="7006" selectedElement="_zCG4pSlzEei-HecpaCz1WQ" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_zCG4pSlzEei-HecpaCz1WQ" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_zCHf5SlzEei-HecpaCz1WQ"/>
                 <children xsi:type="basic:PartStack" xmi:id="_zCG4pilzEei-HecpaCz1WQ" elementId="right" visible="false" containerData="2500" selectedElement="_zCG4pylzEei-HecpaCz1WQ">
                   <tags>Minimized</tags>
                   <children xsi:type="advanced:Placeholder" xmi:id="_zCG4pylzEei-HecpaCz1WQ" elementId="org.eclipse.ui.views.ContentOutline" ref="_zCHgfSlzEei-HecpaCz1WQ"/>
                 </children>
               </children>
-              <children xsi:type="basic:PartStack" xmi:id="_zCG4qClzEei-HecpaCz1WQ" elementId="problems" containerData="2500" selectedElement="_zCG4qylzEei-HecpaCz1WQ">
+              <children xsi:type="basic:PartStack" xmi:id="_zCG4qClzEei-HecpaCz1WQ" elementId="problems" containerData="2994" selectedElement="_zCG4qylzEei-HecpaCz1WQ">
                 <tags>General</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_zCG4qSlzEei-HecpaCz1WQ" elementId="org.eclipse.ui.views.ProblemView" ref="_zCHgcClzEei-HecpaCz1WQ"/>
                 <children xsi:type="advanced:Placeholder" xmi:id="_zCG4qilzEei-HecpaCz1WQ" elementId="org.eclipse.ui.views.TaskList" ref="_zCHgcylzEei-HecpaCz1WQ"/>
@@ -91,7 +91,7 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_zCHf5SlzEei-HecpaCz1WQ" elementId="org.eclipse.ui.editorss" selectedElement="_zCHf5ilzEei-HecpaCz1WQ">
-      <children xsi:type="basic:PartStack" xmi:id="_zCHf5ilzEei-HecpaCz1WQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_rAJvMCmFEeiJlLjLLaafsA">
+      <children xsi:type="basic:PartStack" xmi:id="_zCHf5ilzEei-HecpaCz1WQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_mgAk0CmFEeiJlLjLLaafsA">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
@@ -102,7 +102,7 @@
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_zCHf6ClzEei-HecpaCz1WQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="math.sc" iconURI="platform:/plugin/org.scalaide.worksheet/icons/sample.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.scalaide.worksheet.editors.ScriptEditor&quot; name=&quot;math.sc&quot; partName=&quot;math.sc&quot; title=&quot;math.sc&quot; tooltip=&quot;ControlLab/src/math.sc&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ControlLab/src/math.sc&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;50&quot; selectionOffset=&quot;79&quot; selectionTopPixel=&quot;1258&quot;/>&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.scalaide.worksheet.editors.ScriptEditor&quot; name=&quot;math.sc&quot; partName=&quot;math.sc&quot; title=&quot;math.sc&quot; tooltip=&quot;ControlLab/src/math.sc&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ControlLab/src/math.sc&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;3362&quot; selectionTopPixel=&quot;1258&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.scalaide.worksheet.editors.ScriptEditor</tags>
           <tags>removeOnHide</tags>
@@ -281,50 +281,6 @@
           <tags>scala.tools.eclipse.ScalaSourceFileEditor</tags>
           <tags>removeOnHide</tags>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_zCHgCClzEei-HecpaCz1WQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="gladiator.sc" iconURI="platform:/plugin/org.scalaide.worksheet/icons/sample.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.scalaide.worksheet.editors.ScriptEditor&quot; name=&quot;gladiator.sc&quot; partName=&quot;gladiator.sc&quot; title=&quot;gladiator.sc&quot; tooltip=&quot;OOPLab/src/gladiator/gladiator.sc&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/OOPLab/src/gladiator/gladiator.sc&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;2998&quot; selectionTopPixel=&quot;901&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.scalaide.worksheet.editors.ScriptEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_zCHgCSlzEei-HecpaCz1WQ" elementId="#TextEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#TextEditorContext</tags>
-            <tags>popup:org.scalaide.worksheet.editors.ScriptEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_zCHgCilzEei-HecpaCz1WQ" elementId="#TextRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#TextRulerContext</tags>
-            <tags>popup:org.scalaide.worksheet.editors.ScriptEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_zCHgCylzEei-HecpaCz1WQ" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_zCHgDClzEei-HecpaCz1WQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Accumulator.sc" iconURI="platform:/plugin/org.scalaide.worksheet/icons/sample.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.scalaide.worksheet.editors.ScriptEditor&quot; name=&quot;Accumulator.sc&quot; partName=&quot;Accumulator.sc&quot; title=&quot;Accumulator.sc&quot; tooltip=&quot;OOPLab/src/accumulator/Accumulator.sc&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/OOPLab/src/accumulator/Accumulator.sc&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1218&quot; selectionTopPixel=&quot;523&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.scalaide.worksheet.editors.ScriptEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_zCHgDSlzEei-HecpaCz1WQ" elementId="#TextEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#TextEditorContext</tags>
-            <tags>popup:org.scalaide.worksheet.editors.ScriptEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_zCHgDilzEei-HecpaCz1WQ" elementId="#TextRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#TextRulerContext</tags>
-            <tags>popup:org.scalaide.worksheet.editors.ScriptEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_zCHgDylzEei-HecpaCz1WQ" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
         <children xsi:type="basic:Part" xmi:id="_zCHgEClzEei-HecpaCz1WQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Dungeon.sc" iconURI="platform:/plugin/org.scalaide.worksheet/icons/sample.gif" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.scalaide.worksheet.editors.ScriptEditor&quot; name=&quot;Dungeon.sc&quot; partName=&quot;Dungeon.sc&quot; title=&quot;Dungeon.sc&quot; tooltip=&quot;OOPLab/src/dnd/Dungeon.sc&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/OOPLab/src/dnd/Dungeon.sc&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;456&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
@@ -414,7 +370,7 @@
           </menus>
         </children>
         <children xsi:type="basic:Part" xmi:id="_-m-GICl3EeiBA6FMuViYNw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Queue.scala" iconURI="platform:/plugin/org.scala-ide.sdt.core/icons/full/obj16/scu_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;Queue.scala&quot; partName=&quot;Queue.scala&quot; title=&quot;Queue.scala&quot; tooltip=&quot;OOPLab/src/queue/Queue.scala&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/OOPLab/src/queue/Queue.scala&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;902&quot; selectionTopPixel=&quot;538&quot;/>&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;Queue.scala&quot; partName=&quot;Queue.scala&quot; title=&quot;Queue.scala&quot; tooltip=&quot;OOPLab/src/queue/Queue.scala&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/OOPLab/src/queue/Queue.scala&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;213&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>scala.tools.eclipse.ScalaSourceFileEditor</tags>
           <tags>removeOnHide</tags>
@@ -450,10 +406,12 @@
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_mgAk0CmFEeiJlLjLLaafsA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="WeatherStation.scala" iconURI="platform:/plugin/org.scala-ide.sdt.core/icons/full/obj16/scu_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;WeatherStation.scala&quot; partName=&quot;WeatherStation.scala&quot; title=&quot;WeatherStation.scala&quot; tooltip=&quot;OOPLab/src/weather/WeatherStation.scala&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/OOPLab/src/weather/WeatherStation.scala&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;348&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;WeatherStation.scala&quot; partName=&quot;WeatherStation.scala&quot; title=&quot;WeatherStation.scala&quot; tooltip=&quot;OOPLab/src/weather/WeatherStation.scala&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/OOPLab/src/weather/WeatherStation.scala&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;20&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>scala.tools.eclipse.ScalaSourceFileEditor</tags>
           <tags>removeOnHide</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_pDz-UCmFEeiJlLjLLaafsA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="IThermometer.scala" iconURI="platform:/plugin/org.scala-ide.sdt.core/icons/full/obj16/scu_obj.gif" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;IThermometer.scala&quot; partName=&quot;IThermometer.scala&quot; title=&quot;IThermometer.scala&quot; tooltip=&quot;OOPLab/src/weather/IThermometer.scala&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/OOPLab/src/weather/IThermometer.scala&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;37&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
@@ -466,13 +424,53 @@
           <tags>Editor</tags>
           <tags>scala.tools.eclipse.ScalaSourceFileEditor</tags>
           <tags>removeOnHide</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_7hBggCmFEeiJlLjLLaafsA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="ThermAdapter.scala" iconURI="platform:/plugin/org.scala-ide.sdt.core/icons/full/obj16/scu_obj.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;ThermAdapter.scala&quot; partName=&quot;ThermAdapter.scala&quot; title=&quot;ThermAdapter.scala&quot; tooltip=&quot;OOPLab/src/weather/ThermAdapter.scala&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/OOPLab/src/weather/ThermAdapter.scala&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;15&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;ThermAdapter.scala&quot; partName=&quot;ThermAdapter.scala&quot; title=&quot;ThermAdapter.scala&quot; tooltip=&quot;OOPLab/src/weather/ThermAdapter.scala&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/OOPLab/src/weather/ThermAdapter.scala&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;601&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>scala.tools.eclipse.ScalaSourceFileEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_Ek8IACr6Eei6tt0SUUo3Pg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Gladiator.scala" iconURI="platform:/plugin/org.scala-ide.sdt.core/icons/full/obj16/scu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;Gladiator.scala&quot; partName=&quot;Gladiator.scala&quot; title=&quot;Gladiator.scala&quot; tooltip=&quot;OOPLab/src/gladiator/Gladiator.scala&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/OOPLab/src/gladiator/Gladiator.scala&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;111&quot; selectionOffset=&quot;322&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>scala.tools.eclipse.ScalaSourceFileEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_G78boCr6Eei6tt0SUUo3Pg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="CrusherMasher.scala" iconURI="platform:/plugin/org.scala-ide.sdt.core/icons/full/obj16/scu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;CrusherMasher.scala&quot; partName=&quot;CrusherMasher.scala&quot; title=&quot;CrusherMasher.scala&quot; tooltip=&quot;OOPLab/src/gladiator/CrusherMasher.scala&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/OOPLab/src/gladiator/CrusherMasher.scala&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;138&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>scala.tools.eclipse.ScalaSourceFileEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_ItJ6kCr6Eei6tt0SUUo3Pg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Crusher.scala" iconURI="platform:/plugin/org.scala-ide.sdt.core/icons/full/obj16/scu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;Crusher.scala&quot; partName=&quot;Crusher.scala&quot; title=&quot;Crusher.scala&quot; tooltip=&quot;OOPLab/src/gladiator/Crusher.scala&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/OOPLab/src/gladiator/Crusher.scala&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;156&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>scala.tools.eclipse.ScalaSourceFileEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_JlURoCr6Eei6tt0SUUo3Pg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Slasher.scala" iconURI="platform:/plugin/org.scala-ide.sdt.core/icons/full/obj16/scu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;Slasher.scala&quot; partName=&quot;Slasher.scala&quot; title=&quot;Slasher.scala&quot; tooltip=&quot;OOPLab/src/gladiator/Slasher.scala&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/OOPLab/src/gladiator/Slasher.scala&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;156&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>scala.tools.eclipse.ScalaSourceFileEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_K4AokCr6Eei6tt0SUUo3Pg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Masher.scala" iconURI="platform:/plugin/org.scala-ide.sdt.core/icons/full/obj16/scu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;Masher.scala&quot; partName=&quot;Masher.scala&quot; title=&quot;Masher.scala&quot; tooltip=&quot;OOPLab/src/gladiator/Masher.scala&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/OOPLab/src/gladiator/Masher.scala&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;151&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>scala.tools.eclipse.ScalaSourceFileEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_qipOUCr6Eei6tt0SUUo3Pg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="gladiatorTester.scala" iconURI="platform:/plugin/org.scala-ide.sdt.core/icons/full/obj16/scu_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;scala.tools.eclipse.ScalaSourceFileEditor&quot; name=&quot;gladiatorTester.scala&quot; partName=&quot;gladiatorTester.scala&quot; title=&quot;gladiatorTester.scala&quot; tooltip=&quot;OOPLab/src/gladiator/gladiatorTester.scala&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/OOPLab/src/gladiator/gladiatorTester.scala&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;715&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>scala.tools.eclipse.ScalaSourceFileEditor</tags>
+          <tags>removeOnHide</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_SNVooCsAEeicAY4eNDBqzw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Accumulator.sc" iconURI="platform:/plugin/org.scalaide.worksheet/icons/sample.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.scalaide.worksheet.editors.ScriptEditor&quot; name=&quot;Accumulator.sc&quot; partName=&quot;Accumulator.sc&quot; title=&quot;Accumulator.sc&quot; tooltip=&quot;OOPLab/src/accumulator/Accumulator.sc&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/OOPLab/src/accumulator/Accumulator.sc&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;217&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.scalaide.worksheet.editors.ScriptEditor</tags>
           <tags>removeOnHide</tags>
         </children>
       </children>
@@ -558,7 +556,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_zCHghilzEei-HecpaCz1WQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_hIIBgCmCEeiJlLjLLaafsA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_zCLx8SlzEei-HecpaCz1WQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_u7tY8Cr9EeicAY4eNDBqzw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_zCLx8SlzEei-HecpaCz1WQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_zCHgkylzEei-HecpaCz1WQ" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -579,7 +577,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_zCHgwylzEei-HecpaCz1WQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_hILr4CmCEeiJlLjLLaafsA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_zCLxoilzEei-HecpaCz1WQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_u7v1MCr9EeicAY4eNDBqzw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_zCLxoilzEei-HecpaCz1WQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_zCHgzylzEei-HecpaCz1WQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -990,7 +988,7 @@
       <tags>platform:cocoa</tags>
       <parameters xmi:id="_zCHhsSlzEei-HecpaCz1WQ" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.ui.console.ConsoleView"/>
     </bindings>
-    <bindings xmi:id="_gOlxcSmCEeiJlLjLLaafsA" keySequence="COMMAND+CTRL+F" command="_zCLypClzEei-HecpaCz1WQ"/>
+    <bindings xmi:id="_uJWu8Sr9EeicAY4eNDBqzw" keySequence="COMMAND+CTRL+F" command="_zCLypClzEei-HecpaCz1WQ"/>
   </bindingTables>
   <bindingTables xmi:id="_zCHhsylzEei-HecpaCz1WQ" elementId="org.eclipse.debug.ui.debugging" bindingContext="_zCIHmylzEei-HecpaCz1WQ">
     <bindings xmi:id="_zCHhtClzEei-HecpaCz1WQ" keySequence="COMMAND+F2" command="_zCLxzSlzEei-HecpaCz1WQ"/>
@@ -1282,7 +1280,7 @@
     <bindings xmi:id="_zCIHUClzEei-HecpaCz1WQ" keySequence="ALT+CR" command="_zCLLIylzEei-HecpaCz1WQ"/>
   </bindingTables>
   <bindingTables xmi:id="_zCIHUSlzEei-HecpaCz1WQ" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_zCIHoClzEei-HecpaCz1WQ">
-    <bindings xmi:id="_gOmYgCmCEeiJlLjLLaafsA" keySequence="M1+W" command="_zCLypilzEei-HecpaCz1WQ"/>
+    <bindings xmi:id="_uJXWACr9EeicAY4eNDBqzw" keySequence="M1+W" command="_zCLypilzEei-HecpaCz1WQ"/>
   </bindingTables>
   <bindingTables xmi:id="_zCIHUylzEei-HecpaCz1WQ" bindingContext="_zCIHpClzEei-HecpaCz1WQ"/>
   <bindingTables xmi:id="_zCIHVClzEei-HecpaCz1WQ" bindingContext="_zCIHpSlzEei-HecpaCz1WQ"/>
