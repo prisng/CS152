@@ -2757,3 +2757,28 @@ or a JavaFX application class must extend javafx.application.Application
 2018-03-18 16:03:35,627  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
 2018-03-18 16:03:44,303  WARN [Worker-19] - ScalaProject - Project OOPLab has platform default sourceLevel.
 2018-03-18 16:03:44,303  WARN [Worker-19] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:06:45,433  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:06:45,435  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:06:45,440  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:06:45,440  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:06:48,926  WARN [main] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-03-18 16:06:48,926  WARN [main] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-03-18 16:06:48,929  WARN [main] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-03-18 16:06:48,929  WARN [main] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-03-18 16:06:48,933  WARN [main] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-18 16:06:48,933  WARN [main] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-18 16:06:50,637  WARN [Worker-1] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-03-18 16:06:50,638  WARN [Worker-1] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-03-18 16:06:50,735 ERROR [Worker-6] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2018-03-18 16:06:50,735 ERROR [Worker-6] - System.err - log4j:WARN Please initialize the log4j system properly.
+2018-03-18 16:06:53,165  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-03-18 16:06:53,165  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-03-18 16:08:49,034  WARN [Worker-10] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:08:49,034  WARN [Worker-10] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:08:49,090  WARN [Worker-10] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:08:49,090  WARN [Worker-10] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:08:56,394  WARN [Worker-8] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:08:56,394  WARN [Worker-8] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:08:58,171  WARN [Worker-3] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:08:58,171  WARN [Worker-3] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-18 16:08:59,960  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.

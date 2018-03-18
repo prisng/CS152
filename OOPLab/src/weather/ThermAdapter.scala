@@ -1,7 +1,13 @@
 package weather
 
+/**
+ * Adapter for Celcius -> Fahrenheit
+ */
 class ThermAdapter extends CelciusTherm with IThermometer {
   
+  /**
+   * Gets mean temperature of a list of cities in Fahrenheit
+   */
   def getMeanTemperature(cities: List[String]): Double = {
     // 1-liner
     //var avgTemp = cities.map(computeTemp(_)).reduce(_ + _) / cities.size
