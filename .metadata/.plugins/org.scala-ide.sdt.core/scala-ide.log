@@ -2782,3 +2782,698 @@ or a JavaFX application class must extend javafx.application.Application
 2018-03-18 16:08:58,171  WARN [Worker-3] - ScalaProject - Project OOPLab has platform default sourceLevel.
 2018-03-18 16:08:58,171  WARN [Worker-3] - ScalaProject - Project OOPLab runs on platform default installation.
 2018-03-18 16:08:59,960  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2018-03-18 16:12:10,078  WARN [Worker-11] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-18 16:12:10,078  WARN [Worker-11] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 12:30:11,623  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 12:30:11,626  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 12:30:11,631  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 12:30:11,631  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 12:30:15,019  WARN [main] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-03-19 12:30:15,020  WARN [main] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-03-19 12:30:15,022  WARN [main] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-03-19 12:30:15,023  WARN [main] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-03-19 12:30:15,025  WARN [main] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-19 12:30:15,026  WARN [main] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-19 12:30:16,676  WARN [Worker-9] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-03-19 12:30:16,677  WARN [Worker-9] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-03-19 12:30:16,782 ERROR [Worker-4] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2018-03-19 12:30:16,783 ERROR [Worker-4] - System.err - log4j:WARN Please initialize the log4j system properly.
+2018-03-19 12:30:48,873  WARN [ModalContext] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:30:48,873  WARN [ModalContext] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:30:49,326  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:30:49,326  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:31:29,406  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:31:29,407  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:31:29,641  WARN [bundle-347-ActorSystem-akka.actor.default-dispatcher-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:31:29,641  WARN [bundle-347-ActorSystem-akka.actor.default-dispatcher-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:31:30,346  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2018-03-19 12:32:47,427  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-03-19 12:32:47,428  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-03-19 12:33:00,337  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-19 12:33:00,337  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-19 12:33:48,618  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-03-19 12:33:48,618  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-03-19 12:36:01,155  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:36:01,156  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:36:02,688  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:36:02,688  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:36:05,758  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:36:05,758  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:36:07,889  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:36:07,889  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:39:02,809  WARN [Worker-4] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:39:02,809  WARN [Worker-4] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:39:05,080  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:39:05,080  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:39:06,276  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:39:06,276  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:39:09,660  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:39:09,660  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:39:10,904  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:39:10,904  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:39:12,093  WARN [Worker-6] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:39:12,093  WARN [Worker-6] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:39:20,499 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 12:39:20,499 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 12:41:21,101  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:41:21,101  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:41:22,429  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:41:22,429  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:41:23,504  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:41:23,504  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:41:27,798  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:41:27,799  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:41:29,051  WARN [Worker-8] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:41:29,051  WARN [Worker-8] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:41:30,093  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:41:30,093  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:41:32,598  WARN [Worker-8] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:41:32,598  WARN [Worker-8] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:41:33,883  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:41:33,883  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:41:34,923  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:41:34,923  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:41:47,628  WARN [Worker-7] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:41:47,629  WARN [Worker-7] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:41:48,633  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:41:48,633  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:41:49,530  WARN [Worker-7] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:41:49,530  WARN [Worker-7] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:42:35,133  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:42:35,133  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:42:36,429  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:42:36,429  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:42:37,433  WARN [Worker-8] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:42:37,433  WARN [Worker-8] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:42:43,282  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:42:43,282  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:42:44,605  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:42:44,605  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:42:45,600  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:42:45,600  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:43:37,264  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:43:37,264  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:43:38,243  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:43:38,243  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:43:39,276  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:43:39,276  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:43:53,512  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:43:53,513  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:43:54,918  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:43:54,918  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:43:57,814  WARN [Worker-7] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:43:57,814  WARN [Worker-7] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:43:59,674  WARN [Worker-6] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:43:59,674  WARN [Worker-6] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:45:20,133  WARN [Worker-8] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:45:20,133  WARN [Worker-8] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:45:21,358  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:45:21,358  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:45:22,454  WARN [Worker-4] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:45:22,454  WARN [Worker-4] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:50:21,877  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:50:21,879  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:50:22,579 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 12:50:22,584 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 12:50:22,584 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 12:50:23,356  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:50:23,356  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:50:25,423  WARN [Worker-7] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:50:25,423  WARN [Worker-7] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:50:29,254  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:50:29,255  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:50:30,489  WARN [Worker-4] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:50:30,490  WARN [Worker-4] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:50:32,319  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:50:32,320  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:50:37,469  WARN [Worker-4] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:50:37,469  WARN [Worker-4] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:50:38,811  WARN [Worker-6] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:50:38,811  WARN [Worker-6] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:50:39,704  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:50:39,704  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:51:44,836 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 12:51:44,836 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 12:51:57,972  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:51:57,972  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:51:58,981  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:51:58,981  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:51:59,926  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:51:59,926  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:52:01,936  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:52:01,936  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:52:03,121  WARN [Worker-7] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:52:03,121  WARN [Worker-7] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:52:04,275  WARN [Worker-6] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:52:04,275  WARN [Worker-6] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:57:23,597 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 12:57:23,598 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 12:57:38,127  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:57:38,127  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:57:38,562 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 12:57:38,562 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 12:57:38,562 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 12:57:39,428  WARN [Worker-8] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:57:39,428  WARN [Worker-8] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:57:40,493  WARN [Worker-7] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:57:40,493  WARN [Worker-7] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:57:56,934  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:57:56,934  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:57:58,924  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:57:58,924  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:58:08,655  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:58:08,655  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:58:09,847  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:58:09,847  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 12:58:10,807  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 12:58:10,807  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:04:51,849  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:04:51,851  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:04:53,719  WARN [Worker-8] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:04:53,719  WARN [Worker-8] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:06:43,994  WARN [Worker-7] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:06:43,995  WARN [Worker-7] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:12:40,032  WARN [Worker-8] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:12:40,034  WARN [Worker-8] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:12:41,021  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:12:41,021  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:12:41,928  WARN [Worker-7] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:12:41,928  WARN [Worker-7] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:12:57,914  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:12:57,914  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:13:01,031  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:13:01,031  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:13:02,842  WARN [Worker-6] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:13:02,842  WARN [Worker-6] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:13:12,700  WARN [Worker-7] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:13:12,700  WARN [Worker-7] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:13:13,653  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:13:13,653  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:13:15,350  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:13:15,350  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:13:17,027  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:13:17,027  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:14:03,703  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:14:03,703  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:14:04,657  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:14:04,658  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:14:05,381  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:14:05,381  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:18:18,034 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 13:18:18,035 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 13:18:18,035 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 13:19:31,782  WARN [Worker-6] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:19:31,782  WARN [Worker-6] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:19:32,675  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:19:32,675  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:19:33,543  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:19:33,543  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:20:09,245  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:20:09,245  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:20:10,379  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:20:10,379  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:20:12,067  WARN [Worker-6] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:20:12,067  WARN [Worker-6] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:20:47,668  WARN [Worker-7] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:20:47,668  WARN [Worker-7] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:20:48,676  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:20:48,676  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:20:49,546  WARN [Worker-8] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:20:49,546  WARN [Worker-8] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:21:34,641  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:21:34,641  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:21:35,590  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:21:35,590  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:21:36,449  WARN [Worker-7] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:21:36,449  WARN [Worker-7] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:21:49,426 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 13:21:49,426 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 13:21:49,426 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 13:21:51,784  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:21:51,784  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:21:53,139  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:21:53,139  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:21:54,924  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:21:54,924  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:22:05,276  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:22:05,276  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:22:06,138  WARN [Worker-7] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:22:06,139  WARN [Worker-7] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:22:06,939  WARN [Worker-8] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:22:06,939  WARN [Worker-8] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:22:09,615  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:22:09,615  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:22:10,386  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:22:10,386  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:22:11,115  WARN [Worker-8] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:22:11,115  WARN [Worker-8] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:22:28,231  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:22:28,231  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:22:29,028  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:22:29,028  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:22:29,959  WARN [Worker-8] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:22:29,959  WARN [Worker-8] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:22:47,935  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:22:47,935  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:22:48,958  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:22:48,958  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:22:49,912  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:22:49,912  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:26:24,721  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:26:24,721  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:26:25,646  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:26:25,646  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:26:26,505  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:26:26,505  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:26:32,371  WARN [Worker-7] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:26:32,371  WARN [Worker-7] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:26:33,298  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:26:33,298  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:26:34,197  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:26:34,197  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:26:36,532 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 13:26:36,532 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 13:26:36,532 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 13:26:37,739  WARN [Worker-8] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:26:37,740  WARN [Worker-8] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:26:38,597  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:26:38,597  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:26:39,496  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:26:39,496  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:26:42,685  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:26:42,686  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:26:43,552  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:26:43,552  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:26:44,476  WARN [Worker-6] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:26:44,476  WARN [Worker-6] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:27:01,644  WARN [Worker-7] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:27:01,644  WARN [Worker-7] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:27:02,910  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:27:02,910  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:27:03,810  WARN [Worker-6] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:27:03,810  WARN [Worker-6] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:27:36,062  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:27:36,062  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:27:37,256  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:27:37,256  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:27:38,177  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:27:38,177  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:27:38,841  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:27:38,841  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:27:50,183 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 13:27:50,183 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 13:27:50,183 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 13:27:50,765  WARN [Worker-8] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:27:50,765  WARN [Worker-8] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:27:51,653  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:27:51,653  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:27:52,435  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:27:52,435  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:28:00,549  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:28:00,549  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:28:02,271  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:28:02,271  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:29:44,215 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 13:29:44,216 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 13:29:46,246  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:29:46,246  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:29:47,037  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:29:47,037  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:29:47,964  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:29:47,964  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:29:50,805  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:29:50,805  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:29:51,612  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:29:51,612  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 13:29:52,324  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 13:29:52,324  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 14:54:59,965  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-03-19 14:54:59,979  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-03-19 14:54:59,992  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-03-19 14:54:59,992  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-03-19 14:55:00,429  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 14:55:00,429  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 14:55:00,430  WARN [Worker-0] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 14:55:00,430  WARN [Worker-0] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 14:55:00,431  WARN [Worker-0] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-03-19 14:55:00,431  WARN [Worker-0] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-03-19 14:55:00,432  WARN [Worker-0] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-03-19 14:55:00,432  WARN [Worker-0] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-03-19 14:55:00,432  WARN [Worker-0] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-19 14:55:00,433  WARN [Worker-0] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-19 14:55:00,512 ERROR [Worker-3] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2018-03-19 14:55:00,512 ERROR [Worker-3] - System.err - log4j:WARN Please initialize the log4j system properly.
+2018-03-19 14:55:47,156  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 14:55:47,156  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 14:56:52,723  WARN [Worker-3] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 14:56:52,723  WARN [Worker-3] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 14:56:52,782  WARN [Worker-3] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 14:56:52,782  WARN [Worker-3] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 14:56:55,205  WARN [Worker-9] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 14:56:55,205  WARN [Worker-9] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 15:29:46,289  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 15:29:46,291  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 15:29:46,298  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 15:29:46,298  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 15:29:46,493  WARN [Worker-7] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 15:29:46,494  WARN [Worker-7] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 15:29:46,494  WARN [Worker-7] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-03-19 15:29:46,494  WARN [Worker-7] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-03-19 15:29:46,494  WARN [Worker-7] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-03-19 15:29:46,495  WARN [Worker-7] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-03-19 15:29:46,495  WARN [Worker-7] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-03-19 15:29:46,495  WARN [Worker-7] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-03-19 15:29:46,495  WARN [Worker-7] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-19 15:29:46,495  WARN [Worker-7] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-19 15:29:46,579 ERROR [Worker-4] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2018-03-19 15:29:46,579 ERROR [Worker-4] - System.err - log4j:WARN Please initialize the log4j system properly.
+2018-03-19 15:30:28,606  WARN [Worker-1] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 15:30:28,606  WARN [Worker-1] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 15:30:28,698  WARN [Worker-1] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 15:30:28,699  WARN [Worker-1] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 15:30:31,150  WARN [Worker-4] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 15:30:31,151  WARN [Worker-4] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 15:39:19,047  WARN [Worker-4] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 15:39:19,047  WARN [Worker-4] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 15:42:45,066  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 15:42:45,069  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 15:42:45,075  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 15:42:45,075  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 15:42:45,362  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 15:42:45,363  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 15:42:45,364  WARN [Worker-0] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-03-19 15:42:45,364  WARN [Worker-0] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-03-19 15:42:45,365  WARN [Worker-0] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-03-19 15:42:45,365  WARN [Worker-0] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-03-19 15:42:45,365  WARN [Worker-0] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-03-19 15:42:45,366  WARN [Worker-0] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-03-19 15:42:45,366  WARN [Worker-0] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-19 15:42:45,366  WARN [Worker-0] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-19 15:42:45,427 ERROR [Worker-2] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2018-03-19 15:42:45,427 ERROR [Worker-2] - System.err - log4j:WARN Please initialize the log4j system properly.
+2018-03-19 15:44:44,380  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 15:44:44,381  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 15:44:44,540  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 15:44:44,540  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 15:44:46,986  WARN [Worker-7] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 15:44:46,986  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 15:44:49,277  WARN [Worker-7] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 15:44:49,277  WARN [Worker-7] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 15:44:51,063 ERROR [Worker-3] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 1
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  Error: Main method not found in class accumulator.Accumulator, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+
+2018-03-19 15:44:51,460  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 15:44:51,460  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 15:44:56,979  WARN [Worker-1] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 15:44:56,979  WARN [Worker-1] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 15:44:59,259  WARN [Worker-8] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 15:44:59,260  WARN [Worker-8] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 15:45:00,710  WARN [Worker-2] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 15:45:00,710  WARN [Worker-2] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 15:53:31,311  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 15:53:31,312  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 15:54:53,950 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 15:54:53,950 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 15:54:53,950 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 15:54:56,508  WARN [Worker-7] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 15:54:56,508  WARN [Worker-7] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 15:54:56,512  WARN [Worker-7] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 15:54:56,512  WARN [Worker-7] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 15:54:57,926  WARN [Worker-4] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 15:54:57,926  WARN [Worker-4] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 15:54:59,989  WARN [Worker-8] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 15:54:59,989  WARN [Worker-8] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 15:55:09,328  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 15:55:09,328  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 15:55:11,313  WARN [Worker-6] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 15:55:11,313  WARN [Worker-6] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 15:55:30,309  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 15:55:30,310  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 15:55:31,614  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 15:55:31,614  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 15:55:32,719  WARN [Worker-7] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 15:55:32,719  WARN [Worker-7] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 15:58:04,585 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 15:58:04,585 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 15:58:04,585 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 15:59:15,297  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 15:59:15,297  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 15:59:16,471  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 15:59:16,472  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 15:59:17,563  WARN [Worker-4] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 15:59:17,563  WARN [Worker-4] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:00:19,697  WARN [Worker-7] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:00:19,697  WARN [Worker-7] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:00:21,041  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:00:21,041  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:00:22,116  WARN [Worker-4] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:00:22,116  WARN [Worker-4] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:00:31,548  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:00:31,548  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:00:32,833  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:00:32,833  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:00:33,953  WARN [Worker-7] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:00:33,953  WARN [Worker-7] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:00:57,038  WARN [Worker-7] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:00:57,038  WARN [Worker-7] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:00:59,724  WARN [Worker-6] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:00:59,724  WARN [Worker-6] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:01:01,709  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:01:01,709  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:06:22,204  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:06:22,204  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:06:23,390  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:06:23,391  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:06:24,470  WARN [Worker-6] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:06:24,470  WARN [Worker-6] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:06:41,909  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:06:41,909  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:06:43,250  WARN [Worker-6] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:06:43,250  WARN [Worker-6] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:06:45,049  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:06:45,049  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:11:13,022  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:11:13,022  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:11:15,092  WARN [Worker-4] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:11:15,092  WARN [Worker-4] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:14:19,565  WARN [Worker-4] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:14:19,565  WARN [Worker-4] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:14:20,062 ERROR [Worker-2] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 1
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  Error: Main method not found in class testAlpha, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+
+2018-03-19 16:14:22,051  WARN [Worker-2] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:14:22,051  WARN [Worker-2] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:14:22,475 ERROR [Worker-4] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 1
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  Error: Main method not found in class testAlpha, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+
+2018-03-19 16:14:22,928  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:14:22,928  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:14:25,366  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:14:25,366  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:14:25,821 ERROR [Worker-5] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 1
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  Error: Main method not found in class testAlpha, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+
+2018-03-19 16:14:26,340  WARN [Worker-8] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:14:26,340  WARN [Worker-8] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:16:25,480  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 16:16:25,480  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 16:16:26,063 ERROR [Worker-6] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 143
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  
+
+2018-03-19 16:16:26,676  WARN [Worker-8] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 16:16:26,676  WARN [Worker-8] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 18:13:28,534  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 18:13:28,538  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 18:13:28,536  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 18:13:28,551  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 18:13:28,875  WARN [Worker-1] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-03-19 18:13:28,876  WARN [Worker-1] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-03-19 18:13:28,882  WARN [Worker-1] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 18:13:28,882  WARN [Worker-1] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 18:13:28,885  WARN [Worker-1] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-03-19 18:13:28,885  WARN [Worker-1] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-03-19 18:13:28,888  WARN [Worker-1] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-03-19 18:13:28,889  WARN [Worker-1] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-03-19 18:13:28,892  WARN [Worker-1] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-19 18:13:28,892  WARN [Worker-1] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-19 18:13:29,091 ERROR [Worker-9] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2018-03-19 18:13:29,091 ERROR [Worker-9] - System.err - log4j:WARN Please initialize the log4j system properly.
+2018-03-19 18:13:31,523  WARN [Worker-8] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 18:13:31,523  WARN [Worker-8] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 18:13:31,613  WARN [Worker-8] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 18:13:31,613  WARN [Worker-8] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 18:13:34,905  WARN [Worker-8] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 18:13:34,905  WARN [Worker-8] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 18:13:34,915  WARN [Worker-8] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 18:13:34,916  WARN [Worker-8] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 18:26:29,509  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 18:26:29,510  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-19 19:37:10,238  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:37:10,240  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:37:10,357 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 19:37:10,357 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 19:37:10,358 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 19:37:12,168 ERROR [Worker-5] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 1
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  Error: Main method not found in class testAlpha, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+
+2018-03-19 19:37:12,476  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:37:12,476  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:37:58,132  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:37:58,132  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:37:59,100  WARN [Worker-10] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:37:59,101  WARN [Worker-10] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:38:24,377  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:38:24,378  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:38:25,351 ERROR [Worker-11] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 1
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  Error: Main method not found in class testAlpha, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+
+2018-03-19 19:38:27,837  WARN [Worker-11] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:38:27,837  WARN [Worker-11] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:38:28,726 ERROR [Worker-0] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 1
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  Error: Main method not found in class testAlpha, please define the main method as:
+   public static void main(String[] args)
+or a JavaFX application class must extend javafx.application.Application
+
+
+2018-03-19 19:38:29,835  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:38:29,835  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:39:07,737  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:39:07,737  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:39:09,681  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:39:09,681  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:39:12,972  WARN [Worker-12] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:39:12,972  WARN [Worker-12] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:39:13,975  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:39:13,975  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:39:15,022  WARN [Worker-4] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:39:15,022  WARN [Worker-4] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:39:29,774  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:39:29,774  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:39:31,197  WARN [Worker-3] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:39:31,197  WARN [Worker-3] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:39:33,159  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:39:33,159  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:40:15,013  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:40:15,013  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:40:16,398  WARN [Worker-12] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:40:16,398  WARN [Worker-12] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:40:17,467  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:40:17,467  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:40:51,701  WARN [Worker-10] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:40:51,701  WARN [Worker-10] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:40:53,152  WARN [Worker-12] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:40:53,152  WARN [Worker-12] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:40:54,192  WARN [Worker-10] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:40:54,192  WARN [Worker-10] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:42:08,627  WARN [main] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:42:08,627  WARN [main] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:42:08,708  WARN [Worker-10] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:42:08,708  WARN [Worker-10] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:42:18,572 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 19:42:18,590 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 19:42:18,590 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 19:42:18,590 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 19:42:18,590 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 19:42:18,597 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 19:42:18,597 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 19:42:18,597 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 19:42:18,597 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 19:42:18,597 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 19:42:18,597 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 19:42:18,597 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 19:42:18,601 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2018-03-19 19:42:27,133  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:42:27,135  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:42:34,500  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:42:34,500  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:42:45,038  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:42:45,038  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:42:48,410  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:42:48,410  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:43:04,537  WARN [Worker-11] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:43:04,537  WARN [Worker-11] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:43:14,476  WARN [Worker-11] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:43:14,476  WARN [Worker-11] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:43:16,592  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:43:16,592  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:46:07,530  WARN [Worker-11] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:46:07,531  WARN [Worker-11] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:46:09,391  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:46:09,391  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:46:16,981  WARN [Worker-11] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:46:16,981  WARN [Worker-11] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:46:22,477  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:46:22,477  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:46:22,923 ERROR [Worker-11] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 143
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  
+
+2018-03-19 19:46:24,897  WARN [Worker-10] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:46:24,899  WARN [Worker-10] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:46:26,808  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:46:26,808  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:59:05,143  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:59:05,145  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:59:06,509  WARN [Worker-11] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:59:06,509  WARN [Worker-11] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:59:07,449  WARN [Worker-9] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:59:07,449  WARN [Worker-9] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:59:09,217  WARN [Worker-0] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:59:09,217  WARN [Worker-0] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:59:10,243  WARN [Worker-5] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:59:10,243  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 19:59:11,459  WARN [Worker-13] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 19:59:11,459  WARN [Worker-13] - ScalaProject - Project MidtermPractice runs on platform default installation.

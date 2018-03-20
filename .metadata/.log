@@ -1532,3 +1532,62 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/prisn
 
 !ENTRY org.eclipse.core.net 1 0 2018-03-18 16:06:35.416
 !MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2018-03-19 12:29:46.084 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/prisng/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/prisng/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2018-03-19 12:30:01.647
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.scala-ide.sdt.core 1 0 2018-03-19 12:39:04.294
+!MESSAGE Timeout while resolving hyperlink in /Users/prisng/Documents/SJSU/Spring 2018/CS 152/Assignments/MidtermPractice/src/recursion.sc at: offset: 426, length: 0
+!SESSION 2018-03-19 14:54:33.459 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/prisng/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/prisng/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2018-03-19 14:54:48.541
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2018-03-19 15:29:28.897 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/prisng/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/prisng/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2018-03-19 15:29:36.328
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2018-03-19 15:42:27.203 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/prisng/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/prisng/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2018-03-19 15:42:34.348
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-03-19 16:16:30.972
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2018-03-19 18:13:03.200 -----------------------------------------------
+eclipse.buildId=4.7.0-vfinal-2017-09-29T14:34:02Z-Typesafe
+java.version=1.8.0_111
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -keyring /Users/prisng/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/prisng/.eclipse_keyring
+
+!ENTRY org.eclipse.core.resources 2 10035 2018-03-19 18:13:10.125
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.net 1 0 2018-03-19 18:13:11.859
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
