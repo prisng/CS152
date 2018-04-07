@@ -5,7 +5,7 @@ object combinators {
   // (the input of f should be the same as the output of g)
 	def compose[A, B](f: A => B, g: B => A): B => B = {
 		def r(x: B):
-			B = f(g(x));
+			B = f(g(x))
    	r _
 	}                                         //> compose: [A, B](f: A => B, g: B => A)B => B
 	

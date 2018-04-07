@@ -3477,3 +3477,99 @@ Standard error:
 2018-03-19 19:59:10,243  WARN [Worker-5] - ScalaProject - Project MidtermPractice runs on platform default installation.
 2018-03-19 19:59:11,459  WARN [Worker-13] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
 2018-03-19 19:59:11,459  WARN [Worker-13] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 20:19:48,698  WARN [Worker-12] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-19 20:19:48,698  WARN [Worker-12] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-19 20:19:49,217  WARN [Worker-12] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-19 20:19:49,217  WARN [Worker-12] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-20 20:56:11,099  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-20 20:56:11,109  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-20 20:56:11,118  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-20 20:56:11,118  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-20 20:56:11,339  WARN [Worker-6] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-03-20 20:56:11,342  WARN [Worker-6] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-03-20 20:56:11,342  WARN [Worker-6] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-20 20:56:11,342  WARN [Worker-6] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-20 20:56:11,343  WARN [Worker-6] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-03-20 20:56:11,343  WARN [Worker-6] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-03-20 20:56:11,344  WARN [Worker-6] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-03-20 20:56:11,344  WARN [Worker-6] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-03-20 20:56:11,345  WARN [Worker-6] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-20 20:56:11,345  WARN [Worker-6] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-20 20:56:11,394 ERROR [Worker-4] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2018-03-20 20:56:11,394 ERROR [Worker-4] - System.err - log4j:WARN Please initialize the log4j system properly.
+2018-03-20 21:54:33,701  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-20 21:54:33,706  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-20 21:54:33,714  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-20 21:54:33,714  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-20 21:54:33,932  WARN [Worker-3] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-03-20 21:54:33,932  WARN [Worker-3] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-03-20 21:54:33,935  WARN [Worker-3] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-20 21:54:33,935  WARN [Worker-3] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-20 21:54:33,935  WARN [Worker-3] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-03-20 21:54:33,936  WARN [Worker-3] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-03-20 21:54:33,936  WARN [Worker-3] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-03-20 21:54:33,936  WARN [Worker-3] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-03-20 21:54:33,937  WARN [Worker-3] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-20 21:54:33,938  WARN [Worker-3] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-20 21:54:34,003 ERROR [Worker-6] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2018-03-20 21:54:34,004 ERROR [Worker-6] - System.err - log4j:WARN Please initialize the log4j system properly.
+2018-03-20 21:54:34,931  WARN [Worker-1] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-03-20 21:54:34,932  WARN [Worker-1] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-03-20 21:54:35,079  WARN [Worker-1] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-03-20 21:54:35,080  WARN [Worker-1] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-03-20 21:54:38,555  WARN [Worker-1] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-03-20 21:54:38,555  WARN [Worker-1] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-03-20 21:54:38,563  WARN [Worker-1] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-03-20 21:54:38,563  WARN [Worker-1] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-03-20 21:54:39,193  WARN [Worker-1] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-20 21:54:39,193  WARN [Worker-1] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-20 21:54:39,206  WARN [Worker-1] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-20 21:54:39,206  WARN [Worker-1] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-20 21:54:39,802  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-20 21:54:39,802  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-20 21:54:39,809  WARN [Worker-1] - ScalaProject - Project MidtermPractice has platform default sourceLevel.
+2018-03-20 21:54:39,809  WARN [Worker-1] - ScalaProject - Project MidtermPractice runs on platform default installation.
+2018-03-20 21:54:45,435  WARN [Worker-1] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-20 21:54:45,435  WARN [Worker-1] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-20 21:54:45,477  WARN [Worker-1] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-20 21:54:45,477  WARN [Worker-1] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-20 21:54:46,778  WARN [Worker-1] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-03-20 21:54:46,778  WARN [Worker-1] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-03-20 21:54:46,787  WARN [Worker-1] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-03-20 21:54:46,788  WARN [Worker-1] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-03-20 21:56:25,168  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-03-20 21:56:25,168  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-03-20 21:56:26,300  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project ListLab has platform default sourceLevel.
+2018-03-20 21:56:26,300  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project ListLab runs on platform default installation.
+2018-03-20 22:09:54,862  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project ControlLab has platform default sourceLevel.
+2018-03-20 22:09:54,864  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project ControlLab runs on platform default installation.
+2018-03-20 22:10:38,877  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project RecursionLab has platform default sourceLevel.
+2018-03-20 22:10:38,877  WARN [org.eclipse.jface.text.reconciler.MonoReconciler] - ScalaProject - Project RecursionLab runs on platform default installation.
+2018-03-21 13:07:04,490  WARN [main] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-21 13:07:04,491  WARN [main] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-21 13:10:10,180  WARN [Worker-94] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-21 13:10:10,180  WARN [Worker-94] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-21 13:10:41,341  WARN [Worker-97] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-21 13:10:41,341  WARN [Worker-97] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-21 13:12:06,558  WARN [Worker-100] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-21 13:12:06,559  WARN [Worker-100] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-21 13:12:29,757  WARN [Worker-100] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-21 13:12:29,757  WARN [Worker-100] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-21 13:15:19,277  WARN [Worker-94] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-21 13:15:19,277  WARN [Worker-94] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-21 13:22:53,462  WARN [Worker-99] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-21 13:22:53,462  WARN [Worker-99] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-21 13:23:03,028  WARN [Worker-97] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-21 13:23:03,028  WARN [Worker-97] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-21 13:33:24,857  WARN [Worker-102] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-21 13:33:24,858  WARN [Worker-102] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-21 13:33:33,648  WARN [Worker-104] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-21 13:33:33,648  WARN [Worker-104] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-21 13:33:45,141  WARN [Worker-104] - ScalaProject - Project OOPLab has platform default sourceLevel.
+2018-03-21 13:33:45,141  WARN [Worker-104] - ScalaProject - Project OOPLab runs on platform default installation.
+2018-03-21 14:02:56,730  WARN [Worker-103] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-03-21 14:02:56,730  WARN [Worker-103] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-03-21 14:02:59,336  WARN [Worker-94] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-03-21 14:02:59,336  WARN [Worker-94] - ScalaProject - Project FunctionLab runs on platform default installation.
+2018-03-21 14:03:00,660  WARN [Worker-96] - ScalaProject - Project FunctionLab has platform default sourceLevel.
+2018-03-21 14:03:00,660  WARN [Worker-96] - ScalaProject - Project FunctionLab runs on platform default installation.

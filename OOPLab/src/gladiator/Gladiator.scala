@@ -1,7 +1,7 @@
 package gladiator
 
 class Gladiator (val name: String) {
-  		private var health: Int = 100
+  		private var health: Int = 100  // can do protected instead and don't have to make getter/setters
   		
   		if (health <= 0) throw new Exception(this.name + " has been defeated!")
   

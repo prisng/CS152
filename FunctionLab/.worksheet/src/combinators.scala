@@ -1,11 +1,11 @@
-object combinators {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(237); 
+object combinators {;import org.scalaide.worksheet.runtime.library.WorksheetSupport._; def main(args: Array[String])=$execute{;$skip(236); 
 
   /********** #1 **********/
   // Generic compose combinator
   // (the input of f should be the same as the output of g)
 	def compose[A, B](f: A => B, g: B => A): B => B = {
 		def r(x: B):
-			B = f(g(x));
+			B = f(g(x))
    	r _
 	};System.out.println("""compose: [A, B](f: A => B, g: B => A)B => B""");$skip(67); 
 	
