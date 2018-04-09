@@ -10,6 +10,7 @@ case class Boole(val value: Boolean) extends Literal {
   
   override def toString = value.toString
   
+  // Note: a == b calls a.equals(b)
   override def equals(other: Any): Boolean = 
     other match {
        case other: Boole => this.canEqual(other) && (other.value == this.value)
@@ -18,11 +19,3 @@ case class Boole(val value: Boolean) extends Literal {
   
   override def hashCode = this.toString.##
 }
-
-
-// Companion objects are automatically generated for case classes
-/*
-object Boole {
-  def apply(value: Boolean) = new Boole(value)
-}
-*/

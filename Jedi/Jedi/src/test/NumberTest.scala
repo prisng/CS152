@@ -15,6 +15,7 @@ object NumberTest extends App {
   println("r1 * r2 = " + (r1 * r2))
   println("r1 == r2 = " + (r1 == r2))
   println("r1 < r2 = " + (r1 < r2))
+  println("r1 > r2 = " + (r1 > r2))
   println("r1.## = " + r1.##)
   
   println("r1 * i2 = " + (r1 * i2))

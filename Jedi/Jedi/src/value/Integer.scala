@@ -14,12 +14,14 @@ case class Integer(val value: Int) extends Literal with Ordered[Integer] with Eq
   // Unary negation operator
   def unary_- = Integer(-this.value)
   
+  // Note: a < b and a > b calls a.compare(b)
   def compare(other: Integer): Int = if (this.value < other.value) -1 else if (other.value < this.value) 1 else 0
   
   override def toString = value.toString
   
   override def canEqual(other: Any) =  other.isInstanceOf[Integer]
   
+  // Note: a == b calls a.equals(b)
   override def equals(other: Any): Boolean = 
     other match {
        case other: Integer => this.canEqual(other) && (other.value == this.value)
