@@ -4,7 +4,7 @@ import expression._
 case class Chars(val value: String) extends Literal with Ordered[Chars] with Equals {
   // Operators
   def +(other: Chars): Chars = {
-    println(Notification.ok)
+    println(Notification.OK)
     Chars(this.value + other.value)
   }
   def ==(other: Chars) = if (this.equals(other)) Boole(true) else Boole(false)

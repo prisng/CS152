@@ -13,7 +13,7 @@ case class Identifier(val name: String) extends Expression {
      val value = env.get(this)
      value match {
        case Some(x) => x
-       case None => throw new UndefinedException("Undefined Identifier: " + value)
+       case None => throw new UndefinedException("Undefined Identifier: " + this)
      }
    }
    

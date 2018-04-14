@@ -1,5 +1,5 @@
 package context
 
-class TypeException(message: String) extends JediException(message) {
+class TypeException(gripe: String = "Type Error") extends JediException(gripe) {
   
 }

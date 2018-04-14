@@ -14,7 +14,7 @@ class Notification(val message: String) extends Value {
 object Notification {
   def apply(message: String) = new Notification(message)
   
-  val ok = new Notification("OK")
-  val done = new Notification("DONE")
-  val unspecified = new Notification("UNSPECIFIED")
+  val OK = new Notification("ok")
+  val DONE = new Notification("done")
+  val UNSPECIFIED = new Notification("unspecified")
 }

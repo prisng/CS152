@@ -1,5 +1,6 @@
 package context
+import expression.Identifier
 
-class UndefinedException(message: String) extends JediException(message) {
+class UndefinedException(name: String) extends JediException("Undefined identifier: " + name) {
   
 }
