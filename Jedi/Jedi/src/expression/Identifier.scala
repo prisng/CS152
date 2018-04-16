@@ -6,6 +6,8 @@ import value._
  * An identifier is the name of a value. Identifiers are executed by looking it up
  * in the environment.
  */
+
+/*
 case class Identifier(val name: String) extends Expression {
    override def toString = name
    
@@ -17,4 +19,11 @@ case class Identifier(val name: String) extends Expression {
      }
    }
    
+}
+*/
+
+case class Identifier(val name: String) extends Expression {
+  def execute(env: Environment) = env(this)
+  override def toString = name
+    
 }

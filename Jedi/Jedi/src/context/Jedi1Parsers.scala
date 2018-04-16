@@ -17,15 +17,15 @@ class Jedi1Parsers extends RegexParsers {
    def expression: Parser[Expression] = declaration | conditional | disjunction | failure("Invalid expression")
  
    def declaration: Parser[Declaration] = "def" ~ identifier ~ "=" ~ expression ^^ {
-     case "def"~id~"="~exp => Declaration(id, exp)
+     case "def" ~ id ~ "=" ~ exp => Declaration(id, exp)
    }
    
    def conditional: Parser[Conditional] = "if" ~ "(" ~ expression ~ ")" ~ expression ~ opt("else" ~ expression) ^^ {
-     case "if"~"("~cond~")"~cons~None => Conditional(cond, cons)
-     case "if"~"("~cond~")"~cons~Some("else"~alt) => Conditional(cond, cons, alt)
+     case "if" ~ "(" ~ cond ~ ")" ~ cons ~ None => Conditional(cond, cons)
+     case "if" ~ "(" ~ cond ~ ")" ~ cons ~ Some("else"~alt) => Conditional(cond, cons, alt)
    }
  
-   def  disjunction: Parser[Expression] = conjunction ~ rep("||" ~> conjunction) ^^ {
+   def disjunction: Parser[Expression] = conjunction ~ rep("||" ~> conjunction) ^^ {
      case con ~ Nil => con
      case con ~ more => Disjunction(con::more)
    }

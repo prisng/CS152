@@ -10,7 +10,7 @@ import value._
  * else (condition is false) execute the alternative
  * (if null, return Notification.UNSPECIFIED and ignore the consequent)
  */
-case class Conditional(cond: Expression, conseq: Expression, alt: Expression) extends SpecialForm {
+case class Conditional(cond: Expression, conseq: Expression, alt: Expression = null) extends SpecialForm {
   
   def execute(env: Environment): Value = {
     // Get the value of the "if" condition

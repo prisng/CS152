@@ -11,14 +11,16 @@ import value._
 case class Disjunction(operands: List[Expression]) extends SpecialForm {
   
     def execute(env: Environment): Value = {
-    // Set the default value to be true
+    // Set the default value to be false
     var result = false
+    var index = 0
     
-    // Check all the expression operands
-    for (exp <- operands) {
-      // Check if it's an instance of Boole first, and if there's 1 false, set result to false
-      if (exp.isInstanceOf[Boole] && exp.execute(env) == Boole(true)) result = true
+    // Check if all expression operands are false
+    while (result == false && index < operands.length) {
+      // Check if it's an instance of Boole first, and if there's 1 true, set result to true
+      if (operands(index).isInstanceOf[Boole] && operands(index).execute(env) == Boole(true)) result = true
       else throw new TypeException("Input expressions must be Booles.")
+      index = index + 1
     }
     
     // Return a Boole value

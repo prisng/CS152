@@ -15,7 +15,7 @@ class Environment(var extension: Environment = null) extends HashMap[Identifier,
   override def apply(name: Identifier): Value = {
     if (this.contains(name)) super.apply(name)
     else if (extension != null) extension.apply(name)
-    else throw new UndefinedException(name.name)
+    else throw new UndefinedException(name)
   }
   
 }
