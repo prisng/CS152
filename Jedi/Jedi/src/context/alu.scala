@@ -25,7 +25,7 @@ object alu {
       case "write" => write(args)
       case "prompt" => prompt(args)
       case "read" => read(args)
-      case _ => throw new UndefinedException(opcode)  // throw new UndefinedException(opcode)
+      case _ => throw new UndefinedException(opcode)
     }
   }
   

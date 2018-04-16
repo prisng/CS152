@@ -84,6 +84,9 @@ class Jedi1Parsers extends RegexParsers {
  // real ::= (\+|-)?[0-9]+\.[0-9]+
  
  // boole ::= true | false
+ def boole: Parser[Boole] = ("true" | "false") ^^ {
+   case b => Boole(b.toBoolean)
+ }
 
  // identifier ::= [a-zA-Z][a-zA-Z0-9]*
  
