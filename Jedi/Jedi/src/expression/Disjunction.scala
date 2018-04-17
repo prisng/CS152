@@ -7,6 +7,7 @@ import value._
  * ----------------------------------------------------------------------------------------------
  * Note: A value is false if and only if all the expression operands are false.
  * 			If there is 1 true expression operand, it is true. (refer to logical OR truth table)
+ * Uses lazy execution.
  */
 case class Disjunction(operands: List[Expression]) extends SpecialForm {
   
@@ -15,11 +16,20 @@ case class Disjunction(operands: List[Expression]) extends SpecialForm {
     var result = false
     var index = 0
     
+    /*
     // Check if all expression operands are false
     while (result == false && index < operands.length) {
       // Check if it's an instance of Boole first, and if there's 1 true, set result to true
       if (operands(index).isInstanceOf[Boole] && operands(index).execute(env) == Boole(true)) result = true
       else throw new TypeException("Input expressions must be Booles.")
+      index = index + 1
+    }
+    */
+    
+    // Check if all expression operands are false
+    while (result == false && index < operands.length) {
+      // Check if it's an instance of Boole first, and if there's 1 true, set result to true
+      if (operands(index).execute(env) == Boole(true)) result = true
       index = index + 1
     }
     

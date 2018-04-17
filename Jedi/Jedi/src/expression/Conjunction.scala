@@ -7,6 +7,7 @@ import value._
  * ----------------------------------------------------------------------------------------------
  * Note: A value is true if and only if all the expression operands are true.
  * 			If there is 1 false expression operand, it is false. (refer to logical AND truth table)
+ * Uses lazy execution.
  */
 case class Conjunction(operands: List[Expression]) extends SpecialForm {
   
@@ -27,11 +28,21 @@ case class Conjunction(operands: List[Expression]) extends SpecialForm {
     var result = true
     var index = 0
     
+    /*
     // Check if all expression operands are false
     while (result == true && index < operands.length) {
       // Check if it's an instance of Boole first, and if there's 1 false, set result to false
       if (operands(index).isInstanceOf[Boole] && operands(index).execute(env) == Boole(false)) result = false
       else throw new TypeException("Input expressions must be Booles.")
+      index = index + 1
+    }
+    */
+    
+    // Check if all expression operands are false
+    while (result == true && index < operands.length) {
+      // Check if it's an instance of Boole first, and if there's 1 false, set result to false
+      if (operands(index).execute(env) == Boole(false)) result = false
+      //else throw new TypeException("Input expressions must be Booles.")
       index = index + 1
     }
     

@@ -5,7 +5,7 @@ import value._
 /**
  * A conditional takes the form: if (condition) consequent else alternative
  * ------------------------------------------------------------------------
- * Uses conditional execution.
+ * Uses conditional (lazy) execution.
  * If (condition is true) execute the consequent and ignore the alternative
  * else (condition is false) execute the alternative
  * (if null, return Notification.UNSPECIFIED and ignore the consequent)

@@ -86,6 +86,9 @@ object alu {
       }
     }
     
+  /**
+   * Checks if a < b for comparable values
+   */
   def less(args: List[Value]): Value = {
       if (args.length != 2) throw new TypeException("less expects two inputs")
       val args2 = args.map(toInt).filter(_ != None)
@@ -101,6 +104,9 @@ object alu {
       }
    }  
   
+  /**
+   * Checks if a > b for comparable values
+   */
   def more(args: List[Value]): Value = {
       if (args.length != 2) throw new TypeException("less expects two inputs")
       val args2 = args.map(toInt).filter(_ != None)
@@ -116,8 +122,13 @@ object alu {
       }
    }
 
+  /**
+   * Checks for equality of values in a list of values
+   * Note: a == b == c == d is ok
+   * This function would check: a == b && a == c && a == d
+   */
   def equals(args: List[Value]): Value = {
-    if (args.isEmpty) throw new TypeException("equals needs at least 1 input")
+    if (args.length < 2) throw new TypeException("equals needs at least 2 inputs")
     // Set default value to true
     var result = true
     var index = 0
@@ -132,11 +143,21 @@ object alu {
     Boole(result)
   }
 
+  /**
+   * Calls alu.not and alu.equals to check if two inputs are not equal
+   * Returns true if they are not equal, and false if they are equal
+   * (Binary function; expects only 2 inputs)
+   */
   def unequals(args: List[Value]): Value = {
     if (args.length != 2) throw new TypeException("need 2 inputs for unequals")
-    if (args(0) != args(1)) Boole(true) else Boole(false)
+    // If both inputs are not equal, return a true Boole
+    if (not(List(equals(args))) == Boole(true)) Boole(true) else Boole(false)
   }
 
+  /**
+   * Negates a Boole value
+   * (Unary function; expects only 1 input)
+   */
   def not(args: List[Value]): Value = {
     if (args.length != 1) throw new TypeException("need 1 input for not")
     // Type-checking the first value of Boole
