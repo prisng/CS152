@@ -151,7 +151,7 @@ object alu {
   def unequals(args: List[Value]): Value = {
     if (args.length != 2) throw new TypeException("need 2 inputs for unequals")
     // If both inputs are not equal, return a true Boole
-    if (not(List(equals(args))) == Boole(true)) Boole(true) else Boole(false)
+    not(List(equals(args)))
   }
 
   /**

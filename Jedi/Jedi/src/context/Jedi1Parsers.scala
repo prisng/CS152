@@ -43,7 +43,7 @@ class Jedi1Parsers extends RegexParsers {
    }
    
    // inequality ::= sum ~ (("<" | ">" | "!=") ~ sum)?
-   def inequality: Parser[Expression] = (sum ~ opt(("<" | ">" | "!=") ~ sum)) ^^ {
+   def inequality: Parser[Expression] = sum ~ opt(("<" | ">" | "!=") ~ sum) ^^ {
      case sum ~ None => sum
      case sum ~ Some("<" ~ another) => FunCall(Identifier("less"), List(sum, another))
      case sum ~ Some(">" ~ another) => FunCall(Identifier("more"), List(sum, another))
@@ -101,7 +101,7 @@ class Jedi1Parsers extends RegexParsers {
  }
  
  // boole ::= true | false
- def boole: Parser[Boole] = ("true" | "false") ^^ {
+ def boole: Parser[Boole] = """true|false""".r ^^ {
    case b => Boole(b.toBoolean)
  }
 

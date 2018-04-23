@@ -22,7 +22,7 @@ case class Conditional(cond: Expression, conseq: Expression, alt: Expression = n
     }
     
     // If the condition is true, execute the consequent
-    if (ifExpression == true) conseq.execute(env)
+    if (ifExpression == Boole(true)) conseq.execute(env)
     // else if the condition is false, execute the alternative (unless it's null)
     else {
       if (alt != null) alt.execute(env)

@@ -16,20 +16,12 @@ case class Disjunction(operands: List[Expression]) extends SpecialForm {
     var result = false
     var index = 0
     
-    /*
     // Check if all expression operands are false
     while (result == false && index < operands.length) {
       // Check if it's an instance of Boole first, and if there's 1 true, set result to true
-      if (operands(index).isInstanceOf[Boole] && operands(index).execute(env) == Boole(true)) result = true
+      if (operands(index).execute(env).isInstanceOf[Boole] && operands(index).execute(env) == Boole(true)) result = true
+      else if (operands(index).execute(env) == Boole(false)) result = false
       else throw new TypeException("Input expressions must be Booles.")
-      index = index + 1
-    }
-    */
-    
-    // Check if all expression operands are false
-    while (result == false && index < operands.length) {
-      // Check if it's an instance of Boole first, and if there's 1 true, set result to true
-      if (operands(index).execute(env) == Boole(true)) result = true
       index = index + 1
     }
     

@@ -12,11 +12,14 @@ import scala.collection.mutable.ListBuffer
  * values. Then calls the ALU's execute method for those arguments based on the input operator
  */
 case class FunCall(operator: Identifier, operands: List[Expression]) extends Expression {
+  
   def execute(env: Environment): Value = {
     var arguments = List[Value]()
+    // Execute each operand expression and put it in the list of arguments to pass to the ALU
     for (i <- operands) {
       arguments = arguments :+ i.execute(env)
     }
     alu.execute(operator, arguments) 
   }
+  
 }
