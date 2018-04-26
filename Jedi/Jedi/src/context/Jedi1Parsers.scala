@@ -53,7 +53,7 @@ class Jedi1Parsers extends RegexParsers {
   // negate(exp) = 0 - exp
   private def negate(exp: Expression): Expression = {
     val sub = Identifier("sub")
-    val zero = Integer(0)
+    val zero = Integer(0) 
     FunCall(sub, List(zero, exp))
   }
     
